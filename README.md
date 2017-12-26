@@ -1,2 +1,2 @@
 # ProjectsUsingNEM
-A list of projects using NEM 9New Economy Movement)
+A list of projects using NEM (New Economy Movement)
