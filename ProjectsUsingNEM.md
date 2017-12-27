@@ -12,7 +12,7 @@ Project/ICO's using NEM:
   - Website: http://www.bankera.com
   - Description: ...
 
-- Zues Exchange
+- Zeus Exchange
   - Website: http://zeus.exchange
   - Description: ...
 
