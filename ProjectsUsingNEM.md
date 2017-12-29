@@ -100,3 +100,7 @@ Project/ICO's using NEM:
 - Snap Interactive
   - Website: http://www.snap-interactive.com
   - Description: Snap Interactive, Inc. is a leading provider of live video social networking applications built on advanced technology with future innovation on blockchain to provide optimal streaming quality and security. SNAP has a diverse product portfolio consisting of nine products, including Paltalk and Camfrog, which together host one of the world's largest collections of video-based communities, and FirstMet, a prominent interactive dating brand serving users 35 and older. The Company has a long history of technology innovation and holds 26 patents related to video conferencing and online gaming.
+
+- NEMp3
+  - Website: https://nemp3v2.herokuapp.com
+  - Description: A music download store, enabling artists to sell their music directly using the NEM blockchain for payment verification. A React app built on the MERN stack, with Amazon S3 for music storage. Testnet and mainnet versions are available. A rebrand will likely take place following an exploration of possible income models.
