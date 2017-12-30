@@ -8,6 +8,10 @@ Project/ICO's using NEM:
   - Website: http://www.the-blockchain.com/2017/07/27/nem-io-foundation-create-xem-exchange/
   - Desciption: NEM.io Foundation to Create a XEM Exchange
 
+- Apostille (integrated in NanoWallet)
+  - Website: https://blog.nem.io/apostille/
+  - With the release of NanoWallet, NEM is introducing its first version of Apostille, a second-generation blockchain notarization service. The word “Apostille” was popularized during the Hague Convention of 1961 in an agreement signed by 112 countries to make Apostilles the official form of international notarizations. The NEM blockchain and Apostille program takes the same idea of notarizations but instead of having notaries backed by political will and treaties, has notarizations backed by an international and decentralized blockchain bound by computer code and cryptography.
+  
 - Dimcoin 
   - Website: http://www.dimcoin.io
   - Description: Trade shares on blockchain for the first time with DIMCOIN and the DIM Ecosystem.
