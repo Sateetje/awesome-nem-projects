@@ -116,3 +116,8 @@ Project/ICO's using NEM:
 - Asta | Blockchain
   - Website: http://www.astablockchain.com/
   - Description: We work with our clients to develop use cases for real world Blockchain solutions.
+
+- Atraura Blockchain
+  - Website: https://www.atraurablockchain.com/
+  - The mission of Atraura Blockchain is to respond to the concerns of our clients related to Blockchain technology, providing talent, information and solutions that allow companies to exploit their value proposition in the clearest and most efficient way possible.
+  
