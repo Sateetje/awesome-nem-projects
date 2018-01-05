@@ -133,3 +133,7 @@ Project/ICO's using NEM:
 - RMIT University
   - Website: https://youtu.be/iUElP1E40Ns?t=126
   - Description: Please watch YouTube video
+
+- Dragonfly Fintech
+  - Website: http://www.dfintech.com/
+  - Description: Dragonfly Fintech Pte Ltd is a Singapore-incorporated financial technology company. It is a pioneering leading edge blockchain platform solution provider for a financial ecosystem, including for the payment, clearing, and settlement sector. The founder is Lon Wong, a serial technopreneur, and inventor of a patent-pending fintech business method. Lon Wong is a core team member of the open source NEM blockchain technology project initiative.
