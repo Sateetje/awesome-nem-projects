@@ -125,3 +125,7 @@ Project/ICO's using NEM:
 - Snap Interactive
   - Website: http://www.snap-interactive.com/
   - Description: SNAP was attracted to NEM as a “best-of-class” scalable blockchain technology offering secure Proof-of-Importance consensus protocol, configurable assets, and smart signing contracts. NEM’s node reputation system and native multisig capabilities provide the high level security standards required to meet SNAP’s design philosophy for Backchannel. We believe that NEM’s technology is highly regarded in the blockchain industry, and significant developer adoption has fueled the XEM coin to obtain a market capitalization ranking in the top 10 of all crypto-currencies.
+
+- CSharp2Nem
+  - Website: https://github.com/NemProject/csharp2nem
+  - Description: The CSharp2nem Api wrapper library is designed to simplify development on and use of the nem blockchain. CSharp2nem flexibly supports mainnet, testnet and mijin.
