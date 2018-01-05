@@ -129,3 +129,7 @@ Project/ICO's using NEM:
 - CSharp2Nem
   - Website: https://github.com/NemProject/csharp2nem
   - Description: The CSharp2nem Api wrapper library is designed to simplify development on and use of the nem blockchain. CSharp2nem flexibly supports mainnet, testnet and mijin.
+
+- RMIT University
+  - Website: https://youtu.be/iUElP1E40Ns?t=126
+  - Description: Please watch YouTube video
