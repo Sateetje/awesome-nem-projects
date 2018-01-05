@@ -18,7 +18,8 @@ Project/ICO's using NEM:
 
 - Bankera
   - Website: http://www.bankera.com
-  - Description: Bankera is building a digital bank to last for the blockchain era.
+  - Website: https://spectrocoin.com
+  - Description: Spectrocoin is building Bankera, a digital bank to last for the blockchain era.
 
 - Zeus Exchange
   - Website: http://zeus.exchange
