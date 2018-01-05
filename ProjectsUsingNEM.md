@@ -122,3 +122,6 @@ Project/ICO's using NEM:
   - Website: https://www.atraurablockchain.com/
   - The mission of Atraura Blockchain is to respond to the concerns of our clients related to Blockchain technology, providing talent, information and solutions that allow companies to exploit their value proposition in the clearest and most efficient way possible.
   
+- Snap Interactive
+  - Website: http://www.snap-interactive.com/
+  - Description: SNAP was attracted to NEM as a “best-of-class” scalable blockchain technology offering secure Proof-of-Importance consensus protocol, configurable assets, and smart signing contracts. NEM’s node reputation system and native multisig capabilities provide the high level security standards required to meet SNAP’s design philosophy for Backchannel. We believe that NEM’s technology is highly regarded in the blockchain industry, and significant developer adoption has fueled the XEM coin to obtain a market capitalization ranking in the top 10 of all crypto-currencies.
