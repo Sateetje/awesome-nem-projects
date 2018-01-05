@@ -112,3 +112,7 @@ Project/ICO's using NEM:
 - GCCH Coin
   - Website: https://www.gcchcoin.com/index.html
   - Description: Blockchain technology to offer faster digital transactions and other services through smart contracts. The development of the GCCH coin is also in line with achieving goals of the Global Partnership for Financial Inclusion (GPFI), which is an inclusive platform for all G20 countries.  One of the G20’s focuses is centred on spurring broader and stronger economic growth, by deepening financial intermediation and increasing efficiency of and access to payment, savings, insurance, and credit services.  In this context, the GCCH coin was developed. The GCCH coin has the potential to enhance transparency and reduce long-standing inefficiencies and costs within multiple sectors of African economies. From enabling micropayment systems to smart contracts, the GCCH coin is expected to leapfrog traditional technology infrastructures in African nations and drive a new era of more inclusive growth.  ‘Studies show that broader access to and participation in the financial system can reduce income inequality, boost job creation, accelerate consumption, increase investments in human capital, and directly help poor people manage risk and absorb financial challenges’.
+
+- Asta | Blockchain
+  - Website: http://www.astablockchain.com/
+  - Description: We work with our clients to develop use cases for real world Blockchain solutions.
