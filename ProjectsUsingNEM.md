@@ -137,3 +137,7 @@ Project/ICO's using NEM:
 - Dragonfly Fintech
   - Website: http://www.dfintech.com/
   - Description: Dragonfly Fintech Pte Ltd is a Singapore-incorporated financial technology company. It is a pioneering leading edge blockchain platform solution provider for a financial ecosystem, including for the payment, clearing, and settlement sector. The founder is Lon Wong, a serial technopreneur, and inventor of a patent-pending fintech business method. Lon Wong is a core team member of the open source NEM blockchain technology project initiative.
+
+- RapidQube Digital Solutions
+  - Website: http://www.rapidqube.com/
+  - Description: One such company in India specializing in AI, Big Data, Blockchain, and IOT, RapidQube Digital Solutions, has already been a working prototype built on the NEM Blockchain implementing an advanced medical health records application. Their app utilizes the NEM protocol to allow patients to share selective medical records with their medical care providers in time locked sessions on an as-needed basis. This gives patients full rights to their data and makes them more active participants in their treatment process.
