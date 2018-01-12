@@ -37,9 +37,10 @@ Project/ICO's using NEM:
   - Website: https://forum.nem.io/t/micai-the-world-s-first-ai-based-private-wealth-management-protocol-built-on-the-nem-blockchain/10698
   - Description: At MiCai, we’re developing the world’s first crypto wealth management platform to increase market access and flow of crypto assets. The MiCai protocol is an open-source API built on the NEM blockchain, and incorporates the entire ecosystem for private wealth management. This means that NEM will become the core technology upon which HNWIs will rely on to diversify their wealth into crypto.
 
-- ioNEM
-  - Website: https://blog.nem.io/ionem
-  - Description: The Internet of Things (IoT) is a massive developing category with a lot of potential applications. Unfortunately, many IoT implementations today rely on a centralized server to stay operational. Alongside the IoT movement, we have the blockchain movement, which provides distributed, secure computer systems to use. Let's combine the two categories into one using our very own NEM blockchain!
+- Ethyl
+  - Website: https://forum.nem.io/t/ethyl-the-future-of-the-internet-of-things/12106
+  - Description: Ethyl decentralizes the internet of things using the NEM blockchain. Every building or household installs a single hub that also acts as a decentralized server. As long as electricity is flowing in the home or building, the IoT devices will keep working without relying on internet access or centralized servers. (Except, of course, when chain functionality is required to communicate with or read data from other devices.) Ethyl supports offerings from a wide variety of vendors. It supports open standards such as Z-Wave, ZigBee, and general RF, as well as IP-based APIs for existing smart home devices. 
+Note that even though Ethyl is primarily based on the blockchain, most communication happens off chain to eliminate fees during day to day use. In short: Ethyl safely and securely moves the internet of things onto the NEM Blockchain.
 
 - ECObit
   - Website: http://ecobit.io
@@ -138,7 +139,10 @@ Project/ICO's using NEM:
   - Website: http://www.rapidqube.com/
   - Description: One such company in India specializing in AI, Big Data, Blockchain, and IOT, RapidQube Digital Solutions, has already been a working prototype built on the NEM Blockchain implementing an advanced medical health records application. Their app utilizes the NEM protocol to allow patients to share selective medical records with their medical care providers in time locked sessions on an as-needed basis. This gives patients full rights to their data and makes them more active participants in their treatment process.
 
-
 - FamilyPoints
   - Website: https://familypoints.io/
   - Description: Our mission is to disrupt the parenting industry in order to make it safer, more convenient, and more transparent for everyone involved. The FamilyPoints platform will make parenting cheaper and education more accessible. We are creating the world’s first fully transparent blockchain ledger which stores information about reviews, rewards, and transactions to build a system of trust for children’s products and education.
+
+- LocationCore
+  - Website: https://forum.nem.io/t/locationcore-democratising-personal-user-location-data-through-the-nem-blockchain/12577
+  - Description: We aim to be a transparent and honest data collection company using the NEM blockchain as a way to mitigate the trust relationships consumers often have with app providers. We would set up a namespace and mosaic on the NEM blockchain that would act as the base currency for the remuneration of user data, they would be awarded these mosaics as a reward for the time they have shared their location data with us. All transactions will be recorded in this base currency with users having the option to “cash out” to fiat or hold their tokens with the hope of it appreciating in price. As the uptake of the application continues the transaction volume will also increase. By forging partnerships with app developers and IoT product developers we aim to create an entire ecosystem whereby location data is rewarded at point of creation on the NEM blockchain increasing both the visibility and value of XEM as a currency and everyone’s ROI in the process. We chose NEM because it doesn’t require complicated cryptographic knowledge or dangerous smart contract development in a long-term unproven language, we can use the languages and tools we are most efficient with in order to deliver what we feel is a solid project.
