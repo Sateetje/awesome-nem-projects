@@ -14,6 +14,7 @@ Project/ICO's using NEM:
   
 - Dimcoin 
   - Website: http://www.dimcoin.io
+  - Wallet: https://www.depotwallet.com
   - Description: Trade shares on blockchain for the first time with DIMCOIN and the DIM Ecosystem.
 
 - Bankera
@@ -89,6 +90,7 @@ Note that even though Ethyl is primarily based on the blockchain, most communica
 
 - PacNEM
   - Website: https://www.pacnem.com
+  - Source: https://github.com/evias/pacNEM
   - Description: This game is a Free & Open Source Node.js Autonomous Game using the nem Blockchain. This project uses the nem Blockchain to authenticate Players as well as for Managing Game Sponsors and Mosaics Payouts which are done with Multi Signature Accounts. The game will also store Game Credits and High Scores on the blockchain. This game will reflect how easy it is to use nem in your applications or games business layers and will emphasize the easy Setup for sponsoring and advertising Software in the Gaming industry using the nem Blockchain as well as Instant Payments.
 
 - Digitcoin.world
