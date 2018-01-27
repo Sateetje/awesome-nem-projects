@@ -156,3 +156,11 @@ Note that even though Ethyl is primarily based on the blockchain, most communica
 - Eroiy
   - Website: https://www.eroiy.io/
   - Desciption: Eroiy – The payment method of the adult industry. Anonymous & safe.
+
+- PROVER
+  - Website: https://prover.io/
+  - PROVER is a blockсhain service for confirming the authenticity of the events, facts, or phenomena. This is achieved through the confirming the authenticity of the video on which this event was recorded. If the video is real - the fact is true. If the video being faked - no. It can be taken into account to make legal and financial decisions based on it.
+  
+- Choice
+  - Website: http://www.choicetopay.com/
+  - Desciption: Choice is a NEM-powered payment protocol platform aiming to replace existing payment gateways with direct transactions, change consumer and retailer behaviour, and create tangible social impact at a protocol level using the NEM blockchain. We have the support of Kiwibank’s innovation vehicle the Kiwibank Fintech Accelerator 2.0 (Kiwibank is a registered bank ultimately owned by the government) and are aiming to be the first Kiwibank-backed NEM project
