@@ -190,11 +190,6 @@ Note that even though Ethyl is primarily based on the blockchain, most communica
   - Telegram: ---
   - Description: Fluffr is working to create the use of Augmented Reality to engage with customers. Think about it for a moment. You go to an event, you pull out your phone, you interact with the environment, and you receive Fluff Tokens or Carat Tokens. That's right... Fluffr allows people to earn crypto currency by being part of the event in the virtual world. Unlike traditional crypto mining rigs like ASICs for BTCs or GPU/CPUs for Ethereum that allow you gain new crypto coins, Fluffr allows you to mine or "earn" tokens by using Fluffr's own "Proof of Engagement". And this POE is built on top of the NEM Blockchain foundation. This unique form of user engagement can be fun for consumers and beneficial for businesses.
 
-- Eroiy
-  - Website: https://www.eroiy.io/
-  - Telegram: ---  
-  - Desciption: Eroiy – The payment method of the adult industry. Anonymous & safe.
-
 - PROVER
   - Website: https://prover.io/
   - Telegram: https://t.me/prover_nem
