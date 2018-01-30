@@ -197,7 +197,7 @@ Note that even though Ethyl is primarily based on the blockchain, most communica
   
 - Choice
   - Website: http://www.choicetopay.com/
-  - Telegram: ---  
+  - Telegram: https://t.me/choicetopay
   - Desciption: Choice is a NEM-powered payment protocol platform aiming to replace existing payment gateways with direct transactions, change consumer and retailer behaviour, and create tangible social impact at a protocol level using the NEM blockchain. We have the support of Kiwibank’s innovation vehicle the Kiwibank Fintech Accelerator 2.0 (Kiwibank is a registered bank ultimately owned by the government) and are aiming to be the first Kiwibank-backed NEM project
 
 - TravelbyBit
