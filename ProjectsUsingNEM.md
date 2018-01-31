@@ -219,3 +219,8 @@ Note that even though Ethyl is primarily based on the blockchain, most communica
   - Website: https://xpos.co/
   - Telegram: ---
   - Description: XPOS Consortium will transform the traditional economy with a solution that unites loyalty points, alternative payment gateways, payment devices as means, crypto payment service providers, crypto remittance agents, licensed money services companies into one.
+
+- GiveMatters
+  - Website: http://givematters.io/
+  - Telegram: http://t.me/GiveMatters
+  - Description: GiveMatters aims to provide a Community Hub for registered Charities, Not-for-Profits and NGO’s to publicise their initiatives and projects. This will allow potential Donators to become more informed about what those organisations are looking to achieve and the successes they realise. We truly believe this technology is the future of donations. No Barriers, No bureaucracy, More value, More transparency, More accountability and importantly more aid to those who need it. The platform will enable potential donators to identify an initiative they wish to contribute to, and donate using cryptocurrency to anywhere in the world, instantaneously, eradicating the bureaucracy and ensuring a high level of transparency and accountability by providing full visibility into the how, when and where that donation was spent.
