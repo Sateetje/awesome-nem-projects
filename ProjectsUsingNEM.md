@@ -193,7 +193,7 @@ Note that even though Ethyl is primarily based on the blockchain, most communica
 - PROVER
   - Website: https://prover.io/
   - Telegram: https://t.me/prover_nem
-  - PROVER is a blockсhain service for confirming the authenticity of the events, facts, or phenomena. This is achieved through the confirming the authenticity of the video on which this event was recorded. If the video is real - the fact is true. If the video being faked - no. It can be taken into account to make legal and financial decisions based on it.
+  - PROVER is a blockсhain service for confirming the authenticity of the events, facts, or phenomena. This is achieved through the confirming the authenticity of the video on which this event was recorded. If the video is real - the fact is true. If the video being faked - no. It can be taken into account to make legal and financial decisions based on it (Proposal: https://forum.nem.io/t/prover-a-block-hain-service-for-confirming-the-authenticity-of-events-facts-or-phenomena/13210).
   
 - Choice
   - Website: http://www.choicetopay.com/
