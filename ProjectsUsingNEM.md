@@ -209,3 +209,13 @@ Note that even though Ethyl is primarily based on the blockchain, most communica
   - Website: https://mhub.my/
   - Telegram: https://t.me/NEMHub
   - Description: Transforming the property sector through blockchain-powered property registration and verification (Proposal: https://forum.nem.io/t/mhub-transforming-the-property-sector-through-blockchain-powered-property-registration-and-verification/13341)
+
+- Eroiy
+  - Website: https://www.eroiy.io/
+  - Telegram: https://t.me/joinchat/IFoU4EnxgQAtz3qVzAvVvw 
+  - Desciption: Eroiy – The payment method of the adult industry. Anonymous & safe.
+  
+- XPOS Consortium
+  - Website: https://xpos.co/
+  - Telegram: ---
+  - Description: XPOS Consortium will transform the traditional economy with a solution that unites loyalty points, alternative payment gateways, payment devices as means, crypto payment service providers, crypto remittance agents, licensed money services companies into one.
