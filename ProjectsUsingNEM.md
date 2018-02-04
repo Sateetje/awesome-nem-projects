@@ -224,3 +224,8 @@ Note that even though Ethyl is primarily based on the blockchain, most communica
   - Website: http://givematters.io/
   - Telegram: http://t.me/GiveMatters
   - Description: GiveMatters aims to provide a Community Hub for registered Charities, Not-for-Profits and NGO’s to publicise their initiatives and projects. This will allow potential Donators to become more informed about what those organisations are looking to achieve and the successes they realise. We truly believe this technology is the future of donations. No Barriers, No bureaucracy, More value, More transparency, More accountability and importantly more aid to those who need it. The platform will enable potential donators to identify an initiative they wish to contribute to, and donate using cryptocurrency to anywhere in the world, instantaneously, eradicating the bureaucracy and ensuring a high level of transparency and accountability by providing full visibility into the how, when and where that donation was spent.
+
+- The AbacasXchange
+  - Website: https://abacasexchange.com/
+  - Telegram: ---  
+  - Description: The AbacasXchange: A NEM blockchain-powered, universal asset exchange to trade any asset, anywhere, anytime. The AbacasXchange is an unopinionated, universal asset exchange [DEX] & community platform with a robust business model targeting general asset purveyors, retail and institutional investors, market makers, digital rights owners, crowdfunders and traders. The platform could deploy on NEM as its independent ledger book of record and a key component to the Approved by Abacas Proof of Asset product. Abacas distinguishes itself by promoting ancillary chain offerings in the areas of asset provenance, AML/KYC and identity/document authentication.
