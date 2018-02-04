@@ -229,3 +229,7 @@ Note that even though Ethyl is primarily based on the blockchain, most communica
   - Website: https://abacasexchange.com/
   - Telegram: ---  
   - Description: The AbacasXchange: A NEM blockchain-powered, universal asset exchange to trade any asset, anywhere, anytime. The AbacasXchange is an unopinionated, universal asset exchange [DEX] & community platform with a robust business model targeting general asset purveyors, retail and institutional investors, market makers, digital rights owners, crowdfunders and traders. The platform could deploy on NEM as its independent ledger book of record and a key component to the Approved by Abacas Proof of Asset product. Abacas distinguishes itself by promoting ancillary chain offerings in the areas of asset provenance, AML/KYC and identity/document authentication (Proposal: https://forum.nem.io/t/the-abacasxchange-a-nem-blockchain-powered-universal-asset-exchange/10113).
+
+- OpenApostille
+  - Website: https://www.openapostille.net/
+  - Description: OpenApostille is a service with which you can share your Apostille created by NEM Wallet (NanoWallet) with everyone. Your ideas, thoughs, illustrations, whatever you put into Apostile as a promise will be public and garner attentions by using OpenApostille. Let's make a certificate by NEM Apostile and share it by OpenApostille.
