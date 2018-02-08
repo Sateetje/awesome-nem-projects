@@ -69,7 +69,7 @@ Note that even though Ethyl is primarily based on the blockchain, most communica
   - Description: Xarcade is a NEM powered cost-effective video game distribution/exchange platform for both game publishers and gamers to use. It is a game changer and is a cost-less direct alternative to other app stores in the market. Xarcade does not levy game publishers anything for the sale of in-game credits, changing the paradigm, and passing these cost savings to gamers.
 
 - Meat tracking Japan
-  - Website: https://www.ccn.com/japan-will-track-wild-game-meat-nem-based-blockchain/
+  - Website: http://mijin.io/en/992.html (Mijin)
   - Telegram: ---  
   - Description: As Japan tries to tackle the reality of wildlife overpopulation, a government ministry is tapping a blockchain to streamline the meat supply chain process that will enable end consumers to trace the history of the meat, from the hunting grounds.
 
