@@ -1,6 +1,6 @@
 # Awesome NEM [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> Companies, Projects and ICO's using then NEM blockchain (some are using Mijin, the private version of NEM, or in combination)
+> Companies, Projects and ICO's using the NEM blockchain (some are using Mijin, the private version of NEM, or in combination)
 
 ## Comsa
   - [Website](http://www.comsa.io)
