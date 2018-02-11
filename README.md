@@ -170,6 +170,10 @@
 ## OpenApostille
   - [Website](https://www.openapostille.net/)
   - Description: OpenApostille is a service with which you can share your Apostille created by NEM Wallet (NanoWallet) with everyone. Your ideas, thoughs, illustrations, whatever you put into Apostile as a promise will be public and garner attentions by using OpenApostille. Let's make a certificate by NEM Apostile and share it by OpenApostille.
+## DM Coin
+  - [Website](http://dmc.darcmatter.com/)
+  - [Telegram](https://t.me/DarcMatter)
+  - Description: DarcMatter is developing a blockchain based distributed ledger to remove opacity and inefficiencies from the global alternative investment industry. DM Coin (DMC) will be used for a permissioned blockchain, and will use systems that run natively on the NEM blockchain. DMC will be utilized to unlock and to consummate the smart contracts for the investment completion through the DM Decentralized Infrastructure.
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
