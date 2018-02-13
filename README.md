@@ -174,6 +174,11 @@
   - [Website](http://dmc.darcmatter.com/)
   - [Telegram](https://t.me/DarcMatter)
   - Description: DarcMatter is developing a blockchain based distributed ledger to remove opacity and inefficiencies from the global alternative investment industry. DM Coin (DMC) will be used for a permissioned blockchain, and will use systems that run natively on the NEM blockchain. DMC will be utilized to unlock and to consummate the smart contracts for the investment completion through the DM Decentralized Infrastructure.
+## ATUM
+  - [Website](https://atumchain.com/)
+  - [Telegram](https://t.me/atumpreico)
+  - Description: Аtumchain is a decentralized cryptocurrency trading platform. The goal of Atum is to provide transparent client-client (wallet-wallet) trades without depositing funds in the exchange and to provide clearing of these settlements. Clients of Atumchain will execute trades directly with each other. The main aim is to build a bridge between blockchains where orders are kept and to realize them when the required conditions are met (bridge-momentum). Bridge-momentum is the moment when transaction is considered to have been executed and it is the time to make payment. The transaction is considered to have been executed at the moment when the first pair which meets the price terms is found and transaction volumes are balanced.
+Clients may cancel or change the transaction before bridge-momentum but when it occurs this chain is frozen until the moment of the settlement and volume rebalancing takes place.
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
