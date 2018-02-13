@@ -182,6 +182,10 @@ Clients may cancel or change the transaction before bridge-momentum but when it 
 ## CoderSchool
   - [Website](http://www.coderschool.vn/)
   - Description: We’d like to propose for Coderschool and the NEM Foundation to work together in 2018 to developers on NEM Blockchain technology ([Proposal](https://forum.nem.io/t/coderschool-funding-collaboration-with-nem/13399)).
+## myCoinvest
+  - [Website](https://www.mycoinvest.tech/)
+  - [Telegram](https://t.me/joinchat/GPVrTA0Kj9JresZM3E93yA)
+  - Description: Since the introduction of Bitcoin, blockchain technology has grown in leaps and bounds. Blockchain has not only paved the way for cryptocurrencies to flourish, but has opened an unlimited amount of opportunities in other traditional sectors such as financial services. Now more than ever, people are dreaming of financial freedom and the ability for their money to work for them. However in reality, most people don't have the tools or time to make informed decisions involving investments. Our solution to this age old problem, is a user friendly financial savings ecosystem – an ecosystem that offers an incentivized automatic savings platform powered by blockchain. We also would like to introduce the VEZCOIN (CVZ) cryptocurrency as an integral part in making this possible. CVZ will be the primary mechanism of value transfer on our platform - which allows users to conveniently save for both long and short term financial objectives.
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
