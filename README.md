@@ -17,7 +17,7 @@
 * [Payment](#payment)
 * [Registration/Tracking](#registrationtracking)
 * [Wrappers](#wrappers)
-* [Not categorized yet](Not-categorized-yet)
+* [Not categorized yet](#not-categorized-yet)
 
 ## Authenticity
 * [Apostille (integrated in NanoWallet)](https://blog.nem.io/apostille/) - Join [Telegram](https://t.me/nemred) - With the release of NanoWallet, NEM is introducing its first version of Apostille, a second-generation blockchain notarization service. The word “Apostille” was popularized during the Hague Convention of 1961 in an agreement signed by 112 countries to make Apostilles the official form of international notarizations. The NEM blockchain and Apostille program takes the same idea of notarizations but instead of having notaries backed by political will and treaties, has notarizations backed by an international and decentralized blockchain bound by computer code and cryptography.
