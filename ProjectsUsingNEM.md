@@ -1,1 +1,1 @@
-Go to: [ProjectsUsingNEM](https://github.com/Sateetje/ProjectsUsingNEM)
+Go to: [awesome-nem-projects](https://github.com/Sateetje/awesome-nem-projects)
