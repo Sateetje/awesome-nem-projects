@@ -1,4 +1,4 @@
-[![awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome NEM Projects [![awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [<img src="https://github.com/Sateetje/awesome-nem-projects/blob/master/awesome-nem.png" align="right" width="100">](https://github.com/sateetje/awesome-nem/)
 
