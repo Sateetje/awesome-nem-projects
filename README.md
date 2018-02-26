@@ -4,7 +4,7 @@
 
 > A curated list of companies, projects and ICO's using the NEM blockchain (some are using Mijin, the private version of NEM, or in combination)
 
-## Table of Contents
+## Contents
 * [Authenticity](#authenticity)
 * [Banking](#bankingsavingsinvestments)
 * [Companies](#companies)
