@@ -1,6 +1,6 @@
 # Awesome NEM Projects [![awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[<img src="https://github.com/Sateetje/awesome-nem-projects/blob/master/awesome-nem.png" align="right" width="100">](https://github.com/sateetje/awesome-nem/)
+[<img src="https://github.com/Sateetje/awesome-nem-projects/blob/master/awesome-nem.png" align="right" width="100">](https://nem.io)
 
 > A curated list of companies, projects and ICO's using the NEM blockchain (some are using Mijin, the private version of NEM, or in combination)
 
