@@ -5,7 +5,8 @@
 * Add section title to Table of contents.
 * Add section using header of two level.
 * Add subsection using header of four level.
-* The items listed in the sections must be in alphabetical onder
+* Add Telegram channel and Proposal if available
+* The items listed in the sections must be in alphabetical order
 * Search previous suggestions before making a new one, as yours may be a duplicate.
 * Check your spelling and grammar.
 * Make sure your text editor is set to remove trailing whitespace.
