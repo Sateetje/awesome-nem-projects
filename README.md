@@ -31,6 +31,7 @@
 * [myCoinvest](https://www.mycoinvest.tech/) - Join [Telegram](https://t.me/joinchat/GPVrTA0Kj9JresZM3E93yA) - Ecosystem that offers an incentivized automatic savings platform powered by blockchain.
 
 ## Companies
+* [Aerotrading Ltd](http://aerotrading.co/) - The biggest blockchain consultancy company.
 * [Asta | Blockchain](http://www.astablockchain.com/) - We work with our clients to develop use cases for real world Blockchain solutions.
 * [Atraura Blockchain](https://www.atraurablockchain.com/) - The mission of Atraura Blockchain is to respond to the concerns of our clients related to Blockchain technology, providing talent, information and solutions that allow companies to exploit their value proposition in the clearest and most efficient way possible.
 * [Dragonfly Fintech](http://www.dfintech.com/) - Pioneering leading edge blockchain platform solution provider for a financial ecosystem, including for the payment, clearing, and settlement sector.
@@ -44,7 +45,6 @@
 
 ## Exchanges/Trading
 * [AbacasXchange](https://abacasexchange.com/) - NEM blockchain-powered, universal asset exchange to trade any asset, anywhere, anytime. ([Proposal](https://forum.nem.io/t/the-abacasxchange-a-nem-blockchain-powered-universal-asset-exchange/10113)).
-* [Aerotrading Ltd](http://aerotrading.co/) - The biggest blockchain consultancy company.
 * [ATUM](https://atumchain.com/) - Join [Telegram](https://t.me/atumpreico) - Atumchain is a decentralized cryptocurrency trading platform.
 * [Bankorus](https://www.bankorus.com/) - Join [Telegram](https://t.me/bankorus) - The Bankorus protocol is an open-source API built on the NEM blockchain, so it's highly efficient and protected by the latest cryptography. Former name MiCai.
 * [Dimcoin](http://www.dimcoin.io) - Join [Telegram](https://t.me/dimcoinICO) - Trade shares on blockchain for the first time with DIMCOIN and the DIM Ecosystem.
