@@ -69,6 +69,7 @@
 * [Fluffr](https://www.fluffr.io) - Create the use of Augmented Reality to engage with customers.
 * [LocationCore](https://www.digital2go.com/blockchain/) - Join [Telegram](https://t.me/locationcore) - Transparent and honest data collection company using the NEM blockchain as a way to mitigate the trust relationships consumers often have with app providers ([Proposal](https://forum.nem.io/t/locationcore-democratising-personal-user-location-data-through-the-nem-blockchain/12577)).
 * [LoyalCoin](https://loyalcoin.io) - Join [Telegram](https://t.me/LoyalCoin) - Earn and use loyalty points everytime, everywhere.
+* [Tutellus](https://www.tutellus.io/) - Join [Telegram](https://t.me/tutellus) - The more you learn, the more money you get.
 
 ## Marketing/Advertizing
 * [Digitcoin.world](https://digitcoin.world) - Join [Telegram](https://t.me/digitcoinworld) - Most powerful Total Blockchain-Based Digital Marketing Solutions and specifically designs to deliver the digital marketing solutions for brands, merchants, retailing and service industries in different type of commerce (B2B, B2C, and C2C).
