@@ -45,7 +45,7 @@
 
 ## Exchanges/Trading
 * [AbacasXchange](https://abacasexchange.com/) - NEM blockchain-powered, universal asset exchange to trade any asset, anywhere, anytime. ([Proposal](https://forum.nem.io/t/the-abacasxchange-a-nem-blockchain-powered-universal-asset-exchange/10113)).
-* [ATUM](https://atumchain.com/) - Join [Telegram](https://t.me/atumpreico) - Atumchain is a decentralized cryptocurrency trading platform.
+* [ATUM](https://atumchain.com/) - Join [Telegram](https://t.me/atumpreico) - The most advanced decentralized exchange.
 * [Bankorus](https://www.bankorus.com/) - Join [Telegram](https://t.me/bankorus) - The Bankorus protocol is an open-source API built on the NEM blockchain, so it's highly efficient and protected by the latest cryptography. Former name MiCai.
 * [Dimcoin](http://www.dimcoin.io) - Join [Telegram](https://t.me/dimcoinICO) - Trade shares on blockchain for the first time with DIMCOIN and the DIM Ecosystem.
 * [Fundplatform](https://fundplatform.io/en) - Join [Telegram](https://t.me/FundPlatform) - Fund Platform is a platform for building trade and investment crypto funds at the decentralized, convenient and secure service.
