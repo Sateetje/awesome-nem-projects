@@ -41,7 +41,7 @@
 
 ## Education
 * [CoderSchool](http://www.coderschool.vn/) - Proposal for Coderschool and the NEM Foundation to work together in 2018 to developers on NEM Blockchain technology ([Proposal](https://forum.nem.io/t/coderschool-funding-collaboration-with-nem/13399)).
-* [RMIT University](https://youtu.be/iUElP1E40Ns?t=126) - Please watch YouTube video
+* [RMIT University](https://youtu.be/iUElP1E40Ns?t=126) - Please watch YouTube video.
 
 ## Exchanges/Trading
 * [AbacasXchange](https://abacasexchange.com/) - NEM blockchain-powered, universal asset exchange to trade any asset, anywhere, anytime. ([Proposal](https://forum.nem.io/t/the-abacasxchange-a-nem-blockchain-powered-universal-asset-exchange/10113)).
