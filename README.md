@@ -17,6 +17,7 @@
 * [Marketing/Advertizing](#marketingadvertizing)
 * [Payment](#payment)
 * [Registration/Tracking](#registrationtracking)
+* [Social](#social)
 * [Wrappers](#wrappers)
 
 ## Authenticity
@@ -94,8 +95,11 @@
 * [ECObit](http://ecobit.io) - Join [Telegram](https://t.me/EcobitOfficialTelegram) - Deploy traceability disciplines on all EcoBit chain of produce movement.
 * [Landstead](http://landstead.atraurablockchain.com) - Registry of land and property, allowing government and citizens to co-create an open blockchain system that can be trusted and consulted by interested parties.
 * [Meat tracking Japan](http://mijin.io/en/992.html) (Mijin) - Streamline the meat supply chain process that will enable end consumers to trace the history of the meat, from the hunting grounds.
-* [MHub](https://mhub.my/) - Join [Telegram](https://t.me/NEMHub) - Transforming the property sector through blockchain-powered property registration and verification ([Proposal](https://forum.nem.io/t/mhub-transforming-the-property-sector-through-blockchain-powered-property-registration-and-verification/13341)).
+* [MHub](https://mhub.my) - Join [Telegram](https://t.me/NEMHub) - Transforming the property sector through blockchain-powered property registration and verification ([Proposal](https://forum.nem.io/t/mhub-transforming-the-property-sector-through-blockchain-powered-property-registration-and-verification/13341)).
 * [Voting](https://docs.nem.io/en/nanowallet/voting-module) - Create and vote on polls stored on the NEM blockchain. 
+
+## Social
+* [Breeze](https://breeze.chat) - Join [Telegram](https://t.me/joinchat/FgVGrEPPX1Ik_xyN6Q8n9g) - Full featured social app with integrated payment technology
 
 ## Wrappers
 * [CSharp2Nem](https://github.com/NemProject/csharp2nem) - The CSharp2nem Api wrapper library is designed to simplify development on and use of the nem blockchain.
