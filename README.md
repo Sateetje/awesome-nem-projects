@@ -2,7 +2,7 @@
 
 [<img src="https://github.com/Sateetje/awesome-nem-projects/blob/master/awesome-nem.png" align="right" width="100">](https://nem.io)
 
-> A curated list of companies, projects and ICO's using the NEM blockchain (some are using Mijin, the private version of NEM, or in combination)
+> A curated list of companies, projects and ICO's using the NEM blockchain (some are using Mijin, the private version of NEM, or in combination). This list doesn't contain websites that accepts XEM as payment (hard to maintain).
 
 ## Contents
 * [Authenticity](#authenticity)
