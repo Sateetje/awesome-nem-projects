@@ -13,7 +13,7 @@
 * [Gaming](#gaming)
 * [ICO](#ico)
 * [IoT](#iot)
-* [Loyalty/Rewarding](#loyaltyrewarding)
+* [Loyalty/Rewarding/Donations](#loyaltyrewardingdonations)
 * [Marketing/Advertizing](#marketingadvertizing)
 * [Payment](#payment)
 * [Registration/Tracking](#registrationtracking)
@@ -66,12 +66,13 @@
 ## IoT
 * [Ethyl](https://forum.nem.io/t/ethyl-the-future-of-the-internet-of-things/12106) - Join [Telegram](https://t.me/ethylC) - Ethyl decentralizes the internet of things using the NEM blockchain.
 
-## Loyalty/Rewarding
+## Loyalty/Rewarding/Donations
 * [cacheout](https://cacheout.io/) - Platform where developers can be rewarded by helping others solve their code problems.
 * [FamilyPoints](https://familypoints.io/) - Join [Telegram](https://t.me/familypointstoken) - World’s first fully transparent blockchain ledger which stores information about reviews, rewards, and transactions to build a system of trust for children’s products and education.
 * [Fluffr](https://www.fluffr.io) - Create the use of Augmented Reality to engage with customers.
 * [LocationCore](https://www.digital2go.com/blockchain/) - Join [Telegram](https://t.me/locationcore) - Transparent and honest data collection company using the NEM blockchain as a way to mitigate the trust relationships consumers often have with app providers ([Proposal](https://forum.nem.io/t/locationcore-democratising-personal-user-location-data-through-the-nem-blockchain/12577)).
 * [LoyalCoin](https://loyalcoin.io) - Join [Telegram](https://t.me/LoyalCoin) - Earn and use loyalty points everytime, everywhere.
+* [Solution Token](https://www.solutiontoken.net/) - Join [Telegram](https://t.me/solutiontoken) - Give people the solutions of being able to start a business and create a secondary revenue stream while we aid humanitarian solutions.
 * [Tutellus](https://www.tutellus.io/) - Join [Telegram](https://t.me/tutellus) - The more you learn, the more money you get.
 
 ## Marketing/Advertizing
