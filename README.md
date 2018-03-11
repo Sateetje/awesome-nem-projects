@@ -5,20 +5,25 @@
 > A curated list of companies, projects and ICO's using the NEM blockchain (some are using Mijin, the private version of NEM, or in combination). This list doesn't contain websites that accepts XEM as payment (hard to maintain).
 
 ## Contents
+* [Advertizing/Marketing](#advertizingmarketing)
 * [Authenticity](#authenticity)
-* [Banking](#bankingsavingsinvestments)
+* [Banking/Investments/Savings](#bankinginvestmentssavings)
+* [Charities/Donations](#charitiesdonations)
 * [Companies](#companies)
 * [Education](#education)
 * [Exchanges/Trading](#exchangestrading)
 * [Gaming](#gaming)
-* [ICO](#ico)
-* [IoT](#iot)
-* [Loyalty/Rewarding/Donations](#loyaltyrewardingdonations)
-* [Marketing/Advertizing](#marketingadvertizing)
+* [Initial Coin Offering](#initialcoinoffering)
+* [Internet of Things](#internetofthings)
+* [Loyalty/Rewarding](#loyaltyrewarding)
 * [Payment](#payment)
 * [Registration/Tracking](#registrationtracking)
 * [Social](#social)
 * [Wrappers](#wrappers)
+
+## Advertizing/Marketing
+* [Digitcoin.world](https://digitcoin.world) - Join [Telegram](https://t.me/digitcoinworld) - Most powerful Total Blockchain-Based Digital Marketing Solutions and specifically designs to deliver the digital marketing solutions for brands, merchants, retailing and service industries in different type of commerce (B2B, B2C, and C2C).
+* [Qchain](https://qchain.co) - Join [Telegram](https://t.me/qchainplatform) - Suite of open and transparent applications that provide decentralized and secure solutions for digital advertisers, in-house marketers, content publishers and everyday Internet users alike.
 
 ## Authenticity
 * [Apostille](https://blog.nem.io/apostille/) - Second-generation blockchain notarization service.
@@ -26,10 +31,14 @@
 * [OpenApostille](https://www.openapostille.net/) - OpenApostille is a service with which you can share your Apostille created by NEM Wallet (NanoWallet) with everyone.
 * [PROVER](https://prover.io/) - Join [Telegram](https://t.me/prover_nem) - PROVER is a blockchain service for confirming the authenticity of the events, facts, or phenomena ([Proposal](https://forum.nem.io/t/prover-a-block-hain-service-for-confirming-the-authenticity-of-events-facts-or-phenomena/13210)).
 
-## Banking/Savings/Investments
+## Banking/Investments/Savings
 * [Bankera](http://www.bankera.com) - Join [Telegram](https://t.me/bankera) - Spectrocoin is building Bankera, a digital bank to last for the blockchain era.
 * [DM Coin](http://dmc.darcmatter.com/) - Join [Telegram](https://t.me/DarcMatter) - DarcMatter is developing a blockchain based distributed ledger to remove opacity and inefficiencies from the global alternative investment industry.
 * [myCoinvest](https://www.mycoinvest.tech/) - Join [Telegram](https://t.me/joinchat/GPVrTA0Kj9JresZM3E93yA) - Ecosystem that offers an incentivized automatic savings platform powered by blockchain.
+
+## Charities/Donations
+* [GiveMatters](http://givematters.io/) - Join [Telegram](http://t.me/GiveMatters) - Provide a Community Hub for registered Charities, Not-for-Profits and NGO’s to publicise their initiatives and projects.
+* [Solution Token](https://www.solutiontoken.net/) - Join [Telegram](https://t.me/solutiontoken) - Give people the solutions of being able to start a business and create a secondary revenue stream while we aid humanitarian solutions.
 
 ## Companies
 * [Aerotrading Ltd](http://aerotrading.co/) - The biggest blockchain consultancy company.
@@ -60,31 +69,25 @@
 * [PacNEM](https://www.pacnem.com) - Check [Source](https://github.com/evias/pacNEM) - Free & Open Source Node.js Autonomous Game using the NEM blockchain.
 * [Xarcade](https://www.xarcade.io) - Join [Telegram](https://t.me/xarcadeofficial) - NEM powered cost-effective video game distribution/exchange platform for both game publishers and gamers to use.
 
-## ICO
+## Initial Coin Offering
 * [COMSA](http://www.comsa.io) - Join [Telegram](https://t.me/comsaio) - Cross-chain controller, router and a conduit for future ICOs that want to exist in the COMSA ecosystem.
 
-## IoT
+## Internet of Things
 * [Ethyl](https://forum.nem.io/t/ethyl-the-future-of-the-internet-of-things/12106) - Join [Telegram](https://t.me/ethylC) - Ethyl decentralizes the internet of things using the NEM blockchain.
 
-## Loyalty/Rewarding/Donations
+## Loyalty/Rewarding
 * [cacheout](https://cacheout.io/) - Platform where developers can be rewarded by helping others solve their code problems.
 * [FamilyPoints](https://familypoints.io/) - Join [Telegram](https://t.me/familypointstoken) - World’s first fully transparent blockchain ledger which stores information about reviews, rewards, and transactions to build a system of trust for children’s products and education.
 * [Fluffr](https://www.fluffr.io) - Create the use of Augmented Reality to engage with customers.
 * [LocationCore](https://www.digital2go.com/blockchain/) - Join [Telegram](https://t.me/locationcore) - Transparent and honest data collection company using the NEM blockchain as a way to mitigate the trust relationships consumers often have with app providers ([Proposal](https://forum.nem.io/t/locationcore-democratising-personal-user-location-data-through-the-nem-blockchain/12577)).
 * [LoyalCoin](https://loyalcoin.io) - Join [Telegram](https://t.me/LoyalCoin) - Earn and use loyalty points everytime, everywhere.
-* [Solution Token](https://www.solutiontoken.net/) - Join [Telegram](https://t.me/solutiontoken) - Give people the solutions of being able to start a business and create a secondary revenue stream while we aid humanitarian solutions.
 * [Tutellus](https://www.tutellus.io/) - Join [Telegram](https://t.me/tutellus) - The more you learn, the more money you get.
-
-## Marketing/Advertizing
-* [Digitcoin.world](https://digitcoin.world) - Join [Telegram](https://t.me/digitcoinworld) - Most powerful Total Blockchain-Based Digital Marketing Solutions and specifically designs to deliver the digital marketing solutions for brands, merchants, retailing and service industries in different type of commerce (B2B, B2C, and C2C).
-* [Qchain](https://qchain.co) - Join [Telegram](https://t.me/qchainplatform) - Suite of open and transparent applications that provide decentralized and secure solutions for digital advertisers, in-house marketers, content publishers and everyday Internet users alike.
 
 ## Payment
 * [Choice](http://www.choicetopay.com/) - Join [Telegram](https://t.me/choicetopay) - NEM-powered payment protocol platform aiming to replace existing payment gateways with direct transactions, change consumer and retailer behaviour, and create tangible social impact at a protocol level using the NEM blockchain ([Proposal](https://forum.nem.io/t/choice-a-liberated-payments-protocol-nem-community-fund-proposal/13380)).
 * [Chronobank](https://chronobank.io) - Join [Telegram](https://t.me/chronobank) - Ambitious and wide-ranging blockchain project, aimed at disrupting the HR/recruitment/finance industries in a similar way to how Uber disrupted the taxi business and how Upwork represented an evolution in freelancing.
 * [Eroiy](https://www.eroiy.io/) - Join [Telegram](https://t.me/joinchat/IFoU4EnxgQAtz3qVzAvVvw) - The payment method of the adult industry. Anonymous & safe.
 * [GCCH Coin](https://www.gcchcoin.com/index.html) - Join [Telegram](https://t.me/gcchcoins) - Blockchain technology to offer faster digital transactions and other services through smart contracts.
-* [GiveMatters](http://givematters.io/) - Join [Telegram](http://t.me/GiveMatters) - Provide a Community Hub for registered Charities, Not-for-Profits and NGO’s to publicise their initiatives and projects.
 * [Graft Network](https://www.graft.network) - Join [Telegram](https://t.me/GraftNet) - *Remark: Only the ICO is using NEM* - Global, open-sourced, blockchain-based, decentralized payment gateway and processing platform that anyone can use. 
 * [NEMp3](https://nemp3v2.herokuapp.com) - Music download store, enabling artists to sell their music directly using the NEM blockchain for payment verification.
 * [PundiX](https://pundix.com) - Join [Telegram](https://t.me/Pundix) - Empowering blockchain developers and token holders to sell cryptocurrency and services at any physical store in the world.
