@@ -33,6 +33,7 @@
 
 ## Banking/Investments/Savings
 * [Bankera](http://www.bankera.com) - Join [Telegram](https://t.me/bankera) - Spectrocoin is building Bankera, a digital bank to last for the blockchain era.
+* [Bankorus](https://www.bankorus.com/) - Join [Telegram](https://t.me/bankorus) - The Bankorus protocol is an open-source API built on the NEM blockchain, so it's highly efficient and protected by the latest cryptography. Former name MiCai.
 * [DM Coin](http://dmc.darcmatter.com/) - Join [Telegram](https://t.me/DarcMatter) - DarcMatter is developing a blockchain based distributed ledger to remove opacity and inefficiencies from the global alternative investment industry.
 * [myCoinvest](https://www.mycoinvest.tech/) - Join [Telegram](https://t.me/joinchat/GPVrTA0Kj9JresZM3E93yA) - Ecosystem that offers an incentivized automatic savings platform powered by blockchain.
 
@@ -57,7 +58,6 @@
 * [AbacasXchange](https://abacasexchange.com/) - NEM blockchain-powered, universal asset exchange to trade any asset, anywhere, anytime. ([Proposal](https://forum.nem.io/t/the-abacasxchange-a-nem-blockchain-powered-universal-asset-exchange/10113)).
 * [Adara](https://adara.io/) - Join [Telegram](https://t.me/adaraecosystem) - Intelligent blockchain financial ecosystem.
 * [ATUM](https://atumchain.com/) - Join [Telegram](https://t.me/atumpreico) - The most advanced decentralized exchange.
-* [Bankorus](https://www.bankorus.com/) - Join [Telegram](https://t.me/bankorus) - The Bankorus protocol is an open-source API built on the NEM blockchain, so it's highly efficient and protected by the latest cryptography. Former name MiCai.
 * [Dimcoin](http://www.dimcoin.io) - Join [Telegram](https://t.me/dimcoinICO) - Trade shares on blockchain for the first time with DIMCOIN and the DIM Ecosystem.
 * [Fundplatform](https://fundplatform.io/en) - Join [Telegram](https://t.me/FundPlatform) - Fund Platform is a platform for building trade and investment crypto funds at the decentralized, convenient and secure service.
 * [NEM Exchange](http://www.the-blockchain.com/2017/07/27/nem-io-foundation-create-xem-exchange/) - Join [Telegram](https://t.me/nemred) - NEM.io Foundation XEM Exchange.
