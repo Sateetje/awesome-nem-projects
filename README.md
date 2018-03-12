@@ -47,7 +47,6 @@
 * [Atraura Blockchain](https://www.atraurablockchain.com/) - The mission of Atraura Blockchain is to respond to the concerns of our clients related to Blockchain technology, providing talent, information and solutions that allow companies to exploit their value proposition in the clearest and most efficient way possible.
 * [Dragonfly Fintech](http://www.dfintech.com/) - Pioneering leading edge blockchain platform solution provider for a financial ecosystem, including for the payment, clearing, and settlement sector.
 * [RapidQube Digital Solutions](http://www.rapidqube.com/) - On the NEM Blockchain implementing an advanced medical health records application.
-* [Snap Interactive](http://www.snap-interactive.com/) - SNAP was attracted to NEM as a “best-of-class” scalable blockchain technology offering secure Proof-of-Importance consensus protocol, configurable assets, and smart signing contracts.
 * [XPOS Consortium](https://xpos.co/) - XPOS Consortium will transform the traditional economy with a solution that unites loyalty points, alternative payment gateways, payment devices as means, crypto payment service providers, crypto remittance agents, licensed money services companies into one.
 
 ## Education
@@ -106,6 +105,7 @@
 
 ## Social
 * [Breeze](https://breeze.chat) - Join [Telegram](https://t.me/joinchat/FgVGrEPPX1Ik_xyN6Q8n9g) - Full featured social app with integrated payment technology
+* [PeerStream](https://www.peerstream.com/) - PeerStream Technology Powers Multimedia Social Connectivity.
 
 ## Wrappers
 * [CSharp2Nem](https://github.com/NemProject/csharp2nem) - The CSharp2nem Api wrapper library is designed to simplify development on and use of the nem blockchain.
