@@ -108,7 +108,18 @@
 * [PeerStream](https://www.peerstream.com/) - PeerStream Technology Powers Multimedia Social Connectivity.
 
 ## Wrappers
-* [CSharp2Nem](https://github.com/NemProject/csharp2nem) - The CSharp2nem Api wrapper library is designed to simplify development on and use of the nem blockchain.
+* [C#](https://github.com/NemProject/csharp2nem)
+* [Go](https://github.com/nem-toolchain/nem-toolchain)
+* [Java](https://github.com/NEMPH/nem-apps-lib)
+* [Javascript](https://github.com/QuantumMechanics/NEM-sdk)
+* [Javascript](https://www.npmjs.com/package/nem-api)
+* [NodeJS](https://github.com/NemProject/nodejs2nem)
+* [PHP](https://github.com/namuyan/NEM-Api-Library)
+* [PHP](https://github.com/tomotomo9696/NEMTools_PHP)
+* [PHP](https://github.com/evias/php-nem-laravel)
+* [Python](https://github.com/semolex/nis-python-client)
+* [Ruby](https://github.com/44uk/nis-ruby)
+* [Typescript/Javascript](http://nemlibrary.com/)
 
 ## Contribute
 Contributions welcome! Read the [contribution guidelines](https://github.com/Sateetje/awesome-nem/blob/master/contributing.md) first.
