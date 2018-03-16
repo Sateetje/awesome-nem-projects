@@ -9,6 +9,7 @@
 * [Authenticity](#authenticity)
 * [Banking/Investments/Savings](#bankinginvestmentssavings)
 * [Charities/Donations](#charitiesdonations)
+* [Collaborations](#collaborations)
 * [Companies](#companies)
 * [Education](#education)
 * [Exchanges/Trading](#exchangestrading)
@@ -41,13 +42,16 @@
 * [GiveMatters](http://givematters.io/) - Join [Telegram](http://t.me/GiveMatters) - Provide a Community Hub for registered Charities, Not-for-Profits and NGO’s to publicise their initiatives and projects.
 * [Solution Token](https://www.solutiontoken.net/) - Join [Telegram](https://t.me/solutiontoken) - Give people the solutions of being able to start a business and create a secondary revenue stream while we aid humanitarian solutions.
 
+## Collaborations
+* [Pantos](https://pantos.io/) - Join [Telegram](https://t.me/pantosIO) - The first multi-blockchain token system.
+* [XPOS Consortium](https://xpos.co/) - XPOS Consortium will transform the traditional economy with a solution that unites loyalty points, alternative payment gateways, payment devices as means, crypto payment service providers, crypto remittance agents, licensed money services companies into one.
+
 ## Companies
 * [Aerotrading Ltd](http://aerotrading.co/) - The biggest blockchain consultancy company.
 * [Asta | Blockchain](http://www.astablockchain.com/) - We work with our clients to develop use cases for real world Blockchain solutions.
 * [Atraura Blockchain](https://www.atraurablockchain.com/) - The mission of Atraura Blockchain is to respond to the concerns of our clients related to Blockchain technology, providing talent, information and solutions that allow companies to exploit their value proposition in the clearest and most efficient way possible.
 * [Dragonfly Fintech](http://www.dfintech.com/) - Pioneering leading edge blockchain platform solution provider for a financial ecosystem, including for the payment, clearing, and settlement sector.
 * [RapidQube Digital Solutions](http://www.rapidqube.com/) - On the NEM Blockchain implementing an advanced medical health records application.
-* [XPOS Consortium](https://xpos.co/) - XPOS Consortium will transform the traditional economy with a solution that unites loyalty points, alternative payment gateways, payment devices as means, crypto payment service providers, crypto remittance agents, licensed money services companies into one.
 
 ## Education
 * [CoderSchool](http://www.coderschool.vn/) - Proposal for Coderschool and the NEM Foundation to work together in 2018 to developers on NEM Blockchain technology ([Proposal](https://forum.nem.io/t/coderschool-funding-collaboration-with-nem/13399)).
