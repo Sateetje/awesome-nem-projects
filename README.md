@@ -115,6 +115,7 @@
 * [C#](https://github.com/NemProject/csharp2nem)
 * [Go](https://github.com/nem-toolchain/nem-toolchain)
 * [Java](https://github.com/NEMPH/nem-apps-lib)
+* [Java](https://github.com/rosklyar/nem-library)
 * [Javascript](https://github.com/QuantumMechanics/NEM-sdk)
 * [Javascript](https://www.npmjs.com/package/nem-api)
 * [NodeJS](https://github.com/NemProject/nodejs2nem)
