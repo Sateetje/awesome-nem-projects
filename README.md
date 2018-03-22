@@ -18,6 +18,7 @@
 * [Internet of Things](#internet-of-things)
 * [Loyalty/Rewarding](#loyaltyrewarding)
 * [Payment](#payment)
+* [Platforms](#platforms)
 * [Registration/Tracking](#registrationtracking)
 * [Social](#social)
 * [Wrappers](#wrappers)
@@ -97,6 +98,9 @@
 * [SENRIYAL](https://forum.nem.io/t/sen-ri-yal-migrant-workers-remittance-crossborder-platform/13348) - Join [Telegram](https://t.me/joinchat/HNhhQRDueFAf4ayszN4fFA) - Remittance business on Blockchain platform.
 * [TravelbyBit](https://forum.nem.io/t/travelbybit-travel-the-world-and-pay-with-xem/13227) - Join [Telegram](https://t.me/TravelbyBit) - Foundational application of digital currencies is instant payment and transfers anywhere around the world.
 * [WeChat Payment App](https://www.reddit.com/r/nem/comments/7jqpey/nem_xem_nem_wechat_wallet_release_21_dec/) - NEM WeChat Wallet.
+
+## Platforms
+* [ProximaX](https://proximax.io) - Join [Telegram](http://t.me/ProximaXio) - ProximaX combines blockchain, storage, streaming and an advanced consensus algorithm to enable a rich, all-in-one platform for broader cross-industry application and decentralized app development.
 
 ## Registration/Tracking
 * [Blockgrain](http://www.blockgrain.com.au) - Join [Telegram](https://t.me/blockgrain) - Comprehensive grain supply chain software solution.
