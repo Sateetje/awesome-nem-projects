@@ -19,8 +19,10 @@
 * [Loyalty/Rewarding](#loyaltyrewarding)
 * [Payment](#payment)
 * [Platforms](#platforms)
+* [Plugins](#plugins)
 * [Registration/Tracking](#registrationtracking)
 * [Social](#social)
+* [Tools](#tools)
 * [Wrappers](#wrappers)
 
 ## Advertizing/Marketing
@@ -65,6 +67,7 @@
 * [Dimcoin](http://www.dimcoin.io) - Join [Telegram](https://t.me/dimcoinICO) - Trade shares on blockchain for the first time with DIMCOIN and the DIM Ecosystem.
 * [Fundplatform](https://fundplatform.io/en) - Join [Telegram](https://t.me/FundPlatform) - Fund Platform is a platform for building trade and investment crypto funds at the decentralized, convenient and secure service.
 * [NEM Exchange](http://www.the-blockchain.com/2017/07/27/nem-io-foundation-create-xem-exchange/) - Join [Telegram](https://t.me/nemred) - NEM.io Foundation XEM Exchange.
+* [NEMventory](https://github.com/RobertoSnap/nemventory) - Trade and inventory system backed on NEM blockchain.
 * [Mosaic Exchange](http://nemchange.com) - Website, where you can sell and buy NEM based tokens(called mosaics), and (in the future) other cryptocurrencies.
 * [Zaif](https://zaif.jp/?lang=en3) (Mijin) - Exchange.
 * [Zeus Exchange](http://zeus.exchange) - Join [Telegram](https://t.me/zeus_exchange) - Hybrid decentralized trading platform for the financial industry of tomorrow.
@@ -83,24 +86,30 @@
 * [cacheout](https://cacheout.io/) - Platform where developers can be rewarded by helping others solve their code problems.
 * [FamilyPoints](https://familypoints.io/) - Join [Telegram](https://t.me/familypointstoken) - World’s first fully transparent blockchain ledger which stores information about reviews, rewards, and transactions to build a system of trust for children’s products and education.
 * [Fluffr](https://www.fluffr.io) - Create the use of Augmented Reality to engage with customers.
-* [LocationCore](https://www.digital2go.com/blockchain/) - Join [Telegram](https://t.me/locationcore) - Transparent and honest data collection company using the NEM blockchain as a way to mitigate the trust relationships consumers often have with app providers ([Proposal](https://forum.nem.io/t/locationcore-democratising-personal-user-location-data-through-the-nem-blockchain/12577)).
+* [LocationCore](https://www.digital2go.com/blockchain/) - Join [Telegram](https://t.me/locationcore) - Transparent and honest data collection company using the NEM blockchain as a way to mitigate the trust relationships consumers often have with app providers.
 * [LoyalCoin](https://loyalcoin.io) - Join [Telegram](https://t.me/LoyalCoin) - Earn and use loyalty points everytime, everywhere.
 * [Tutellus](https://www.tutellus.io/) - Join [Telegram](https://t.me/tutellus) - The more you learn, the more money you get.
 
 ## Payment
-* [Choice](http://www.choicetopay.com/) - Join [Telegram](https://t.me/choicetopay) - NEM-powered payment protocol platform aiming to replace existing payment gateways with direct transactions, change consumer and retailer behaviour, and create tangible social impact at a protocol level using the NEM blockchain ([Proposal](https://forum.nem.io/t/choice-a-liberated-payments-protocol-nem-community-fund-proposal/13380)).
+* [Choice](http://www.choicetopay.com/) - Join [Telegram](https://t.me/choicetopay) - NEM-powered payment protocol platform aiming to replace existing payment gateways with direct transactions, change consumer and retailer behaviour, and create tangible social impact at a protocol level using the NEM blockchain.
 * [Chronobank](https://chronobank.io) - Join [Telegram](https://t.me/chronobank) - Ambitious and wide-ranging blockchain project, aimed at disrupting the HR/recruitment/finance industries in a similar way to how Uber disrupted the taxi business and how Upwork represented an evolution in freelancing.
 * [Eroiy](https://www.eroiy.io/) - Join [Telegram](https://t.me/joinchat/IFoU4EnxgQAtz3qVzAvVvw) - The payment method of the adult industry. Anonymous & safe.
 * [GCCH Coin](https://www.gcchcoin.com/index.html) - Join [Telegram](https://t.me/gcchcoins) - Blockchain technology to offer faster digital transactions and other services through smart contracts.
 * [Graft Network](https://www.graft.network) - Join [Telegram](https://t.me/GraftNet) - *Remark: Only the ICO is using NEM* - Global, open-sourced, blockchain-based, decentralized payment gateway and processing platform that anyone can use. 
 * [NEMp3](https://nemp3v2.herokuapp.com) - Music download store, enabling artists to sell their music directly using the NEM blockchain for payment verification.
+* [NEMPay](https://blockchaintoken.tech) - Mobile app to transfer NEM assets easily and securely.
 * [PundiX](https://pundix.com) - Join [Telegram](https://t.me/Pundix) - Empowering blockchain developers and token holders to sell cryptocurrency and services at any physical store in the world.
 * [SENRIYAL](https://forum.nem.io/t/sen-ri-yal-migrant-workers-remittance-crossborder-platform/13348) - Join [Telegram](https://t.me/joinchat/HNhhQRDueFAf4ayszN4fFA) - Remittance business on Blockchain platform.
-* [TravelbyBit](https://forum.nem.io/t/travelbybit-travel-the-world-and-pay-with-xem/13227) - Join [Telegram](https://t.me/TravelbyBit) - Foundational application of digital currencies is instant payment and transfers anywhere around the world.
+* [TravelbyBit](https://www.travelbybit.com/) - Join [Telegram](https://t.me/TravelbyBit) - Foundational application of digital currencies is instant payment and transfers anywhere around the world.
 * [WeChat Payment App](https://www.reddit.com/r/nem/comments/7jqpey/nem_xem_nem_wechat_wallet_release_21_dec/) - NEM WeChat Wallet.
 
 ## Platforms
 * [ProximaX](https://proximax.io) - Join [Telegram](http://t.me/ProximaXio) - ProximaX combines blockchain, storage, streaming and an advanced consensus algorithm to enable a rich, all-in-one platform for broader cross-industry application and decentralized app development.
+
+## Plugins
+* [NEM Microwallet](https://chrome.google.com/webstore/detail/nem-microwallet/dhjphghceddgjhboapfeeonimnihpkkn) - Check [Source](https://github.com/anrodon/nem-microwallet) - Simple and easy to use wallet in Chrome.
+* [NEMid](https://blog.nem.io/nemid/) - Sign in compatible websites and apps with only a NEM account through a standalone application.
+* [WooCommerce](https://wordpress.org/plugins/woo-xem-gateway/) - Buy and sell with XEM with WooCommerse.
 
 ## Registration/Tracking
 * [Blockgrain](http://www.blockgrain.com.au) - Join [Telegram](https://t.me/blockgrain) - Comprehensive grain supply chain software solution.
@@ -114,6 +123,12 @@
 ## Social
 * [Breeze](https://breeze.chat) - Join [Telegram](https://t.me/joinchat/FgVGrEPPX1Ik_xyN6Q8n9g) - Full featured social app with integrated payment technology
 * [PeerStream](https://www.peerstream.com/) - PeerStream Technology Powers Multimedia Social Connectivity.
+
+## Tools
+* [NEM Authenticator](https://github.com/aleixmorgadas/NEM-Authenticator) - 100% decentralized 2 Factor Confirmation system to secure your account assets from being stolen using the NEM Blockchain native features.
+* [NEM ICO Project](https://github.com/aleixmorgadas/nem-ico-project) - Collaborative project that shows a working project of "How to create a ICO with NEM Blockchain".
+* [NEM Key Recovery Service](https://github.com/aenima86/NEMkrs) - Simple questions with personal information can be used to restore and account.
+* [XEMSign](https://github.com/kodty/MultisigTransactionSigner) - Simple bot for signing XEM multisignature transactions with optional signing rules.
 
 ## Wrappers
 * [C#](https://github.com/NemProject/csharp2nem)
