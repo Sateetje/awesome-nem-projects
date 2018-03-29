@@ -122,7 +122,8 @@
 
 ## Social
 * [Breeze](https://breeze.chat) - Join [Telegram](https://t.me/joinchat/FgVGrEPPX1Ik_xyN6Q8n9g) - Full featured social app with integrated payment technology
-* [PeerStream](https://www.peerstream.com/) - PeerStream Technology Powers Multimedia Social Connectivity.
+* [PeerStream](https://www.peerstream.com/) - Powers multimedia social connectivity (messaging and streaming).
+* [Xems](http://xems.io/) - Anonymous social networking service that uses blockchain NEM for short messaging.
 
 ## Tools
 * [NEM Authenticator](https://github.com/aleixmorgadas/NEM-Authenticator) - 100% decentralized 2 Factor Confirmation system to secure your account assets from being stolen using the NEM Blockchain native features.
