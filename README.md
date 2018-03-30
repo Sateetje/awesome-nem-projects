@@ -67,8 +67,8 @@
 * [Dimcoin](http://www.dimcoin.io) - Join [Telegram](https://t.me/dimcoinICO) - Trade shares on blockchain for the first time with DIMCOIN and the DIM Ecosystem.
 * [Fundplatform](https://fundplatform.io/en) - Join [Telegram](https://t.me/FundPlatform) - Fund Platform is a platform for building trade and investment crypto funds at the decentralized, convenient and secure service.
 * [NEM Exchange](http://www.the-blockchain.com/2017/07/27/nem-io-foundation-create-xem-exchange/) - Join [Telegram](https://t.me/nemred) - NEM.io Foundation XEM Exchange.
+* [nemchange](http://nemchange.com) - Join [Telegram](https://t.me/joinchat/EldJ3RBgvHBIdCbnQjAjMQ) - Website where you can sell and buy NEM based tokens (called mosaics) and (in the future) other cryptocurrencies.
 * [NEMventory](https://github.com/RobertoSnap/nemventory) - Trade and inventory system backed on NEM blockchain.
-* [Mosaic Exchange](http://nemchange.com) - Website, where you can sell and buy NEM based tokens(called mosaics), and (in the future) other cryptocurrencies.
 * [Zaif](https://zaif.jp/?lang=en3) (Mijin) - Exchange.
 * [Zeus Exchange](http://zeus.exchange) - Join [Telegram](https://t.me/zeus_exchange) - Hybrid decentralized trading platform for the financial industry of tomorrow.
 
