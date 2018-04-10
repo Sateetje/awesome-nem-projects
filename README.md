@@ -97,6 +97,7 @@
 * [Eroiy](https://www.eroiy.io/) - Join [Telegram](https://t.me/joinchat/IFoU4EnxgQAtz3qVzAvVvw) - The payment method of the adult industry. Anonymous & safe.
 * [GCCH Coin](https://www.gcchcoin.com/index.html) - Join [Telegram](https://t.me/gcchcoins) - Blockchain technology to offer faster digital transactions and other services through smart contracts.
 * [Graft Network](https://www.graft.network) - Join [Telegram](https://t.me/GraftNet) - *Remark: Only the ICO is using NEM* - Global, open-sourced, blockchain-based, decentralized payment gateway and processing platform that anyone can use. 
+* [Mobi Ridesharing](http://www.mobishare.com.au) - Ridesharing app that will allow people heading in the same direction the ability to connect with each other so they can rideshare on their commute.
 * [NEMp3](https://nemp3v2.herokuapp.com) - Music download store, enabling artists to sell their music directly using the NEM blockchain for payment verification.
 * [NEMPay](https://blockchaintoken.tech) - Mobile app to transfer NEM assets easily and securely.
 * [PundiX](https://pundix.com) - Join [Telegram](https://t.me/Pundix) - Empowering blockchain developers and token holders to sell cryptocurrency and services at any physical store in the world.
