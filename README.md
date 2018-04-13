@@ -103,7 +103,6 @@
 * [PundiX](https://pundix.com) - Join [Telegram](https://t.me/Pundix) - Empowering blockchain developers and token holders to sell cryptocurrency and services at any physical store in the world.
 * [SENRIYAL](https://forum.nem.io/t/sen-ri-yal-migrant-workers-remittance-crossborder-platform/13348) - Join [Telegram](https://t.me/joinchat/HNhhQRDueFAf4ayszN4fFA) - Remittance business on Blockchain platform.
 * [TravelbyBit](https://www.travelbybit.com/) - Join [Telegram](https://t.me/TravelbyBit) - Foundational application of digital currencies is instant payment and transfers anywhere around the world.
-* [WeChat Payment App](https://www.reddit.com/r/nem/comments/7jqpey/nem_xem_nem_wechat_wallet_release_21_dec/) - NEM WeChat Wallet.
 
 ## Platforms
 * [ProximaX](https://proximax.io) - Join [Telegram](http://t.me/ProximaXio) - ProximaX combines blockchain, storage, streaming and an advanced consensus algorithm to enable a rich, all-in-one platform for broader cross-industry application and decentralized app development.
@@ -111,6 +110,7 @@
 ## Plugins
 * [NEM Microwallet](https://chrome.google.com/webstore/detail/nem-microwallet/dhjphghceddgjhboapfeeonimnihpkkn) - Check [Source](https://github.com/anrodon/nem-microwallet) - Simple and easy to use wallet in Chrome.
 * [NEMid](https://blog.nem.io/nemid/) - Sign in compatible websites and apps with only a NEM account through a standalone application.
+* [WeChat Payment App](https://www.reddit.com/r/nem/comments/7jqpey/nem_xem_nem_wechat_wallet_release_21_dec/) - NEM WeChat Wallet.
 * [WooCommerce](https://wordpress.org/plugins/woo-xem-gateway/) - Buy and sell with XEM with WooCommerse.
 
 ## Registration/Tracking
