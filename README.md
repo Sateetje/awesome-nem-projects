@@ -151,7 +151,7 @@
 * [Typescript/Javascript](http://nemlibrary.com/)
 
 ## Contribute
-Contributions welcome! Read the [contribution guidelines](https://github.com/Sateetje/awesome-nem/blob/master/contributing.md) first.
+Contributions welcome! Read the [contribution guidelines](https://github.com/Sateetje/awesome-nem-projects/blob/master/contributing.md) first.
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
