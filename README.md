@@ -118,6 +118,7 @@
 * [Blockgrain](http://www.blockgrain.com.au) - Join [Telegram](https://t.me/blockgrain) - Comprehensive grain supply chain software solution.
 * [Copyrightbank](https://beta.copyrightbank.com) - Copyright Registration and Verification.
 * [ECObit](http://ecobit.io) - Join [Telegram](https://t.me/EcobitOfficialTelegram) - Deploy traceability disciplines on all EcoBit chain of produce movement.
+* [GreeOx](http://greeox.com/) - Join [Telegram](https://t.me/joinchat/HWPwcQ12-z5nEl88Fw2VBA) - Exceedingly automatized, high yielding container where you get the opportunity to grow a variety of greens and herbs ([Proposal](https://forum.nem.io/t/nem-community-funding-proposal-worlds-first-decentralized-indoor-farm/16243)).
 * [Landstead](http://landstead.atraurablockchain.com) - Registry of land and property, allowing government and citizens to co-create an open blockchain system that can be trusted and consulted by interested parties.
 * [Meat tracking Japan](http://mijin.io/en/992.html) (Mijin) - Streamline the meat supply chain process that will enable end consumers to trace the history of the meat, from the hunting grounds.
 * [MHub](https://mhub.my) - Join [Telegram](https://t.me/NEMHub) - Transforming the property sector through blockchain-powered property registration and verification ([Proposal](https://forum.nem.io/t/mhub-transforming-the-property-sector-through-blockchain-powered-property-registration-and-verification/13341)).
