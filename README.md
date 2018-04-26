@@ -75,6 +75,7 @@
 * [Zeus Exchange](http://zeus.exchange) - Join [Telegram](https://t.me/zeus_exchange) - Hybrid decentralized trading platform for the financial industry of tomorrow.
 
 ## Gaming
+* [bclotto.io](http://bclotto.io/) - Join [Telegram](https://t.me/blockchainlotto) - Blockchain Lotto based on NEM.
 * [PacNEM](https://www.pacnem.com) - Check [Source](https://github.com/evias/pacNEM) - Free & Open Source Node.js Autonomous Game using the NEM blockchain.
 * [Xarcade](https://www.xarcade.io) - Join [Telegram](https://t.me/xarcadeofficial) - NEM powered cost-effective video game distribution/exchange platform for both game publishers and gamers to use.
 
