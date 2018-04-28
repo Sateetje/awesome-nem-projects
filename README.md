@@ -21,6 +21,7 @@
 * [Platforms](#platforms)
 * [Plugins](#plugins)
 * [Registration/Tracking](#registrationtracking)
+* [Security](#security)
 * [Social](#social)
 * [Tools](#tools)
 * [Wrappers](#wrappers)
@@ -123,6 +124,9 @@
 * [Meat tracking Japan](http://mijin.io/en/992.html) (Mijin) - Streamline the meat supply chain process that will enable end consumers to trace the history of the meat, from the hunting grounds.
 * [MHub](https://mhub.my) - Join [Telegram](https://t.me/NEMHub) - Transforming the property sector through blockchain-powered property registration and verification ([Proposal](https://forum.nem.io/t/mhub-transforming-the-property-sector-through-blockchain-powered-property-registration-and-verification/13341)).
 * [Voting](https://docs.nem.io/en/nanowallet/voting-module) - Create and vote on polls stored on the NEM blockchain. 
+
+## Security
+* [safekee](http://www.safekee.io/) - World's first secure decentralized cryptokeys Cold–Storage service.
 
 ## Social
 * [Breeze](https://breeze.chat) - Join [Telegram](https://t.me/joinchat/FgVGrEPPX1Ik_xyN6Q8n9g) - Full featured social app with integrated payment technology
