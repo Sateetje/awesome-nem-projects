@@ -97,6 +97,7 @@
 ## Payment
 * [Choice](http://www.choicetopay.com/) - Join [Telegram](https://t.me/choicetopay) - NEM-powered payment protocol platform aiming to replace existing payment gateways with direct transactions, change consumer and retailer behaviour, and create tangible social impact at a protocol level using the NEM blockchain.
 * [Chronobank](https://chronobank.io) - Join [Telegram](https://t.me/chronobank) - Ambitious and wide-ranging blockchain project, aimed at disrupting the HR/recruitment/finance industries in a similar way to how Uber disrupted the taxi business and how Upwork represented an evolution in freelancing.
+* [DIMPAY](http://dimpay.io) - Global payment system.
 * [Eroiy](https://www.eroiy.io/) - Join [Telegram](https://t.me/joinchat/IFoU4EnxgQAtz3qVzAvVvw) - The payment method of the adult industry. Anonymous & safe.
 * [GCCH Coin](https://www.gcchcoin.com/index.html) - Join [Telegram](https://t.me/gcchcoins) - Blockchain technology to offer faster digital transactions and other services through smart contracts.
 * [Graft Network](https://www.graft.network) - Join [Telegram](https://t.me/GraftNet) - *Remark: Only the ICO is using NEM* - Global, open-sourced, blockchain-based, decentralized payment gateway and processing platform that anyone can use. 
