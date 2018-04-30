@@ -67,6 +67,8 @@
 ## Exchanges/Trading
 * [Adara](https://adara.io/) - Join [Telegram](https://t.me/adaraexchange) - Intelligent blockchain financial ecosystem.
 * [ATUM](https://atumchain.com/) - Join [Telegram](https://t.me/atumpreico) - The most advanced decentralized exchange.
+* [brifs.co](https://www.brifs.co/) - Join [Telegram](https://t.me/brifs) - Trustless and decentralised peer-to-peer exchange of
+digital gift card values.
 * [Dimcoin](http://www.dimcoin.io) - Join [Telegram](https://t.me/dimcoinICO) - Trade shares on blockchain for the first time with DIMCOIN and the DIM Ecosystem.
 * [Fundplatform](https://fundplatform.io/en) - Join [Telegram](https://t.me/FundPlatform) - Fund Platform is a platform for building trade and investment crypto funds at the decentralized, convenient and secure service.
 * [NEM Exchange](http://www.the-blockchain.com/2017/07/27/nem-io-foundation-create-xem-exchange/) - Join [Telegram](https://t.me/nemred) - NEM.io Foundation XEM Exchange.
