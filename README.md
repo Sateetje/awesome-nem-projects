@@ -65,7 +65,7 @@
 * [nemBOX](http://nembox.io) - The Best Place to Learn NEM Blockchain.
 
 ## Exchanges/Trading
-* [Adara](https://adara.io/) - Join [Telegram](https://t.me/adaraexchange) - Intelligent blockchain financial ecosystem.
+* [Adara](https://adara.io/) - Join [Telegram](https://t.me/adaraecosystem) - Intelligent blockchain financial ecosystem.
 * [ATUM](https://atumchain.com/) - Join [Telegram](https://t.me/atumpreico) - The most advanced decentralized exchange.
 * [brifs.co](https://www.brifs.co/) - Join [Telegram](https://t.me/brifs) - Trustless and decentralised peer-to-peer exchange of
 digital gift card values.
