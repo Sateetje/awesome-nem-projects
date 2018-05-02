@@ -112,6 +112,7 @@ digital gift card values.
 
 ## Platforms
 * [ProximaX](https://proximax.io) - Join [Telegram](http://t.me/ProximaXio) - ProximaX combines blockchain, storage, streaming and an advanced consensus algorithm to enable a rich, all-in-one platform for broader cross-industry application and decentralized app development.
+* [Scanetchain](https://www.scanetchain.io/) - Join [Telegram](http://t.me/scanetchain) - Decentralized open platform where users can freely define and sell their contents and products for royalty and disclosure fee.
 
 ## Plugins
 * [NEM DNS](http://nem-dns.bitballoon.com) - Decentralized, censorship free and updatable DNS.
