@@ -117,7 +117,7 @@ digital gift card values.
 * [Scanetchain](https://www.scanetchain.io/) - Join [Telegram](http://t.me/scanetchain) - Decentralized open platform where users can freely define and sell their contents and products for royalty and disclosure fee.
 
 ## Plugins
-* [NEM DNS](http://nem-dns.bitballoon.com) - Check [Source](https://github.com/aenima86/NEM-DNS) Decentralized, censorship free and updatable DNS.
+* [NEM DNS](http://nem-dns.bitballoon.com) - Check [Source](https://github.com/aenima86/NEM-DNS) - Decentralized, censorship free and updatable DNS.
 * [NEM Microwallet](https://chrome.google.com/webstore/detail/nem-microwallet/dhjphghceddgjhboapfeeonimnihpkkn) - Check [Source](https://github.com/anrodon/nem-microwallet) - Simple and easy to use wallet in Chrome.
 * [NEMid](https://blog.nem.io/nemid/) - Sign in compatible websites and apps with only a NEM account through a standalone application.
 * [WeChat Payment App](https://www.reddit.com/r/nem/comments/7jqpey/nem_xem_nem_wechat_wallet_release_21_dec/) - NEM WeChat Wallet.
