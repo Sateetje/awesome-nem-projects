@@ -142,9 +142,13 @@ digital gift card values.
 
 ## Tools
 * [NEM Authenticator](https://github.com/aleixmorgadas/NEM-Authenticator) - 100% decentralized 2 Factor Confirmation system to secure your account assets from being stolen using the NEM Blockchain native features.
+* [NEM Bot](https://t.me/nem_io_bot) - Telegram NEM Price Bot
 * [NEM ICO Project](https://github.com/aleixmorgadas/nem-ico-project) - Collaborative project that shows a working project of "How to create a ICO with NEM Blockchain".
 * [NEM Key Recovery Service](https://github.com/aenima86/NEMkrs) - Simple questions with personal information can be used to restore and account.
 * [NEM Trezor Standalone](https://github.com/saleemrashid/nem-trezor-standalone/) - Offline tool for recovering NEM private keys from BIP39 mnemonics and importing them into NanoWallet.
+* [NEMHarvestMonitorBot](https://t.me/NEMHarvestMonitorBot) - Telegram NEM Harvest Monitor Bot
+* [NemNotificationsBot](https://t.me/NemNotificationsBot) - Telegram NEM Notifications Bot
+* [NemXemBot](https://t.me/NemXemBot) - Telegram NEM Price Bot
 * [XEMSign](https://github.com/kodty/MultisigTransactionSigner) - Simple bot for signing XEM multisignature transactions with optional signing rules.
 
 ## Wrappers
