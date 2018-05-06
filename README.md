@@ -134,6 +134,7 @@ digital gift card values.
 * [Voting](https://docs.nem.io/en/nanowallet/voting-module) - Create and vote on polls stored on the NEM blockchain. 
 
 ## Security
+* [NEM krs](https://github.com/aenima86/NEMkrs) - Key Recovery Service (KRS).
 * [safekee](http://www.safekee.io/) - World's first secure decentralized cryptokeys Cold–Storage service.
 
 ## Social
