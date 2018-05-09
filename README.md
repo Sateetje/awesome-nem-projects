@@ -145,10 +145,8 @@ digital gift card values.
 * [Xems](http://xems.io/) - Join [Telegram](https://t.me/joinchat/Hvn1Fw4Le4iawfoCTMJEZA) - Anonymous social networking service that uses blockchain NEM for short messaging.
 
 ## Telegram Bots
-* [NEM Bot](https://t.me/nem_io_bot) - Telegram NEM Price Bot
 * [NEMHarvestMonitorBot](https://t.me/NEMHarvestMonitorBot) - Telegram NEM Harvest Monitor Bot
 * [NemNotificationsBot](https://t.me/NemNotificationsBot) - Telegram NEM Notifications Bot
-* [NemXemBot](https://t.me/NemXemBot) - Telegram NEM Price Bot
 
 ## Tools
 * [NEM Authenticator](https://github.com/aleixmorgadas/NEM-Authenticator) - 100% decentralized 2 Factor Confirmation system to secure your account assets from being stolen using the NEM Blockchain native features.
