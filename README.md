@@ -111,6 +111,7 @@ digital gift card values.
 * [Graft Network](https://www.graft.network) - Join [Telegram](https://t.me/GraftNet) - *Remark: Only the ICO is using NEM* - Global, open-sourced, blockchain-based, decentralized payment gateway and processing platform that anyone can use.
 * [MealToken](https://www.mealtoken.io/) - Join [Telegram](https://t.me/joinchat/HdchmQ-OzxCUDunwz1YRVw) - World's first cryptocurrency for the franchise market.
 * [Mobi Ridesharing](http://www.mobishare.com.au) - Ridesharing app that will allow people heading in the same direction the ability to connect with each other so they can rideshare on their commute.
+* [Moocharoo](https://moocharoo.club/) - Join [Telegram](https://t.me/moocharoo) - Adventure brand with an aim to develop an exclusive club membership that is controlled through blockchain technology.
 * [NEMp3](https://nemp3v2.herokuapp.com) - Music download store, enabling artists to sell their music directly using the NEM blockchain for payment verification.
 * [NEMPay](https://blockchaintoken.tech) - Mobile app to transfer NEM assets easily and securely.
 * [Paytomat](https://paytomat.com/) - Join [Telegram](https://t.me/paytomat) - Blockchain-based payment processing system created to help merchants, consumers and crypto core teams to find each other and create real-life traction for cryptocurrencies as an emerging method of everyday payments.
