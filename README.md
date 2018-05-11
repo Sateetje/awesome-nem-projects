@@ -31,6 +31,7 @@
 * [Digitcoin.world](https://digitcoin.world) - Join [Telegram](https://t.me/digitcoinworld) - Most powerful Total Blockchain-Based Digital Marketing Solutions and specifically designs to deliver the digital marketing solutions for brands, merchants, retailing and service industries in different type of commerce (B2B, B2C, and C2C).
 * [mynem.store](http://mynem.store/) - Webshop with NEM products and pay with XEM.
 * [Qchain](https://qchain.co) - Join [Telegram](https://t.me/qchainplatform) - Suite of open and transparent applications that provide decentralized and secure solutions for digital advertisers, in-house marketers, content publishers and everyday Internet users alike.
+* [Scanetchain](https://www.scanetchain.io/) - Commercial dApp built on the NEM platform developed for blockchain commercialization.
 
 ## Authenticity
 * [Apostille](https://blog.nem.io/apostille/) - Second-generation blockchain notarization service.
