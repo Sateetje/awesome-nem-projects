@@ -102,6 +102,7 @@ digital gift card values.
 * [Chronobank](https://chronobank.io) - Join [Telegram](https://t.me/chronobank) - Ambitious and wide-ranging blockchain project, aimed at disrupting the HR/recruitment/finance industries in a similar way to how Uber disrupted the taxi business and how Upwork represented an evolution in freelancing.
 * [DIMPAY](http://dimpay.io) - Global payment system.
 * [Eroiy](https://www.eroiy.io/) - Join [Telegram](https://t.me/joinchat/IFoU4EnxgQAtz3qVzAvVvw) - The payment method of the adult industry. Anonymous & safe.
+* [Free Market Token](https://freemarkettoken.io/) - Join [Telegram](https://t.me/joinchat/H_P85Q7-pxvdKsIM4ZWiiA) - Powerful utility token enhancing the e-commerce experience while rewarding and protecting both shoppers and merchants on Ecryptostore.com.
 * [GCCH Coin](https://www.gcchcoin.com/index.html) - Join [Telegram](https://t.me/gcchcoins) - Blockchain technology to offer faster digital transactions and other services through smart contracts.
 * [Graft Network](https://www.graft.network) - Join [Telegram](https://t.me/GraftNet) - *Remark: Only the ICO is using NEM* - Global, open-sourced, blockchain-based, decentralized payment gateway and processing platform that anyone can use. 
 * [Mobi Ridesharing](http://www.mobishare.com.au) - Ridesharing app that will allow people heading in the same direction the ability to connect with each other so they can rideshare on their commute.
@@ -113,6 +114,7 @@ digital gift card values.
 * [TravelbyBit](https://www.travelbybit.com/) - Join [Telegram](https://t.me/TravelbyBit) - Foundational application of digital currencies is instant payment and transfers anywhere around the world.
 
 ## Platforms
+* [LATTICE80](http://www.lattice80.com/category/fintech/blockchain/) - Join [Telegram](https://t.me/LATTICE80_KAYA) - Digital platform that provides financial services together with various stakeholders in fintech and blockchain.
 * [ProximaX](https://proximax.io) - Join [Telegram](http://t.me/ProximaXio) - ProximaX combines blockchain, storage, streaming and an advanced consensus algorithm to enable a rich, all-in-one platform for broader cross-industry application and decentralized app development.
 * [Scanetchain](https://www.scanetchain.io/) - Join [Telegram](http://t.me/scanetchain) - Decentralized open platform where users can freely define and sell their contents and products for royalty and disclosure fee.
 
@@ -143,16 +145,14 @@ digital gift card values.
 * [Xems](http://xems.io/) - Join [Telegram](https://t.me/joinchat/Hvn1Fw4Le4iawfoCTMJEZA) - Anonymous social networking service that uses blockchain NEM for short messaging.
 
 ## Telegram Bots
-* [NEM Bot](https://t.me/nem_io_bot) - Telegram NEM Price Bot
 * [NEMHarvestMonitorBot](https://t.me/NEMHarvestMonitorBot) - Telegram NEM Harvest Monitor Bot
 * [NemNotificationsBot](https://t.me/NemNotificationsBot) - Telegram NEM Notifications Bot
-* [NemXemBot](https://t.me/NemXemBot) - Telegram NEM Price Bot
 
 ## Tools
 * [NEM Authenticator](https://github.com/aleixmorgadas/NEM-Authenticator) - 100% decentralized 2 Factor Confirmation system to secure your account assets from being stolen using the NEM Blockchain native features.
 * [NEM ICO Project](https://github.com/aleixmorgadas/nem-ico-project) - Collaborative project that shows a working project of "How to create a ICO with NEM Blockchain".
-* [NEM Key Recovery Service](https://github.com/aenima86/NEMkrs) - Simple questions with personal information can be used to restore and account.
 * [NEM Trezor Standalone](https://github.com/saleemrashid/nem-trezor-standalone/) - Offline tool for recovering NEM private keys from BIP39 mnemonics and importing them into NanoWallet.
+* [XEMBook](http://xembook.net/en)
 * [XEMSign](https://github.com/kodty/MultisigTransactionSigner) - Simple bot for signing XEM multisignature transactions with optional signing rules.
 
 ## Wrappers
