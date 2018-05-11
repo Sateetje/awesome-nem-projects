@@ -129,6 +129,7 @@ digital gift card values.
 * [WooCommerce](https://wordpress.org/plugins/woo-xem-gateway/) - Buy and sell with XEM with WooCommerse.
 
 ## Registration/Tracking
+* [Agrello](https://www.agrello.org/) - Join [Telegram](https://t.me/agrello) - Self-aware agent-supported contract management on blockchains for legal accountability.
 * [Blockgrain](http://www.blockgrain.com.au) - Join [Telegram](https://t.me/blockgrain) - Comprehensive grain supply chain software solution.
 * [Copyrightbank](https://beta.copyrightbank.com) - Copyright Registration and Verification.
 * [ECObit](http://ecobit.io) - Join [Telegram](https://t.me/EcobitOfficialTelegram) - Deploy traceability disciplines on all EcoBit chain of produce movement.
