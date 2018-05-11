@@ -119,6 +119,7 @@ digital gift card values.
 * [TravelbyBit](https://www.travelbybit.com/) - Join [Telegram](https://t.me/TravelbyBit) - Foundational application of digital currencies is instant payment and transfers anywhere around the world.
 
 ## Platforms
+* [Day By Day](https://daybyday.io/) - Platform that manages consumer and business insurance policy needs.
 * [LATTICE80](http://www.lattice80.com/category/fintech/blockchain/) - Join [Telegram](https://t.me/LATTICE80_KAYA) - Digital platform that provides financial services together with various stakeholders in fintech and blockchain.
 * [ProximaX](https://proximax.io) - Join [Telegram](http://t.me/ProximaXio) - ProximaX combines blockchain, storage, streaming and an advanced consensus algorithm to enable a rich, all-in-one platform for broader cross-industry application and decentralized app development.
 * [Scanetchain](https://www.scanetchain.io/) - Join [Telegram](http://t.me/scanetchain) - Decentralized open platform where users can freely define and sell their contents and products for royalty and disclosure fee.
