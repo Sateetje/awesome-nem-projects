@@ -60,7 +60,8 @@ ecosystem for philanthropic endeavors and positive social impact.
 * [Asta | Blockchain](http://www.astablockchain.com/) - We work with our clients to develop use cases for real world Blockchain solutions.
 * [Atraura Blockchain](https://www.atraurablockchain.com/) - The mission of Atraura Blockchain is to respond to the concerns of our clients related to Blockchain technology, providing talent, information and solutions that allow companies to exploit their value proposition in the clearest and most efficient way possible.
 * [Dragonfly Fintech](http://www.dfintech.com/) - Pioneering leading edge blockchain platform solution provider for a financial ecosystem, including for the payment, clearing, and settlement sector.
-* [GoBlock](https://www.goblock.io) - Make blockchain solutions accessible to companies, governments and their end users. 
+* [GoBlock](https://www.goblock.io) - Make blockchain solutions accessible to companies, governments and their end users.
+* [KCHAIN](https://kchain.kr/) - Join [Telegram](https://t.me/kchain_lab) - Leading global professional blockchain consulting company, providing a broad range of blockchain services and solutions in strategy, consulting, digital technology and operations.
 * [RapidQube Digital Solutions](http://www.rapidqube.com/) - On the NEM Blockchain implementing an advanced medical health records application.
 
 ## Education
