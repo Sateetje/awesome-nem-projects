@@ -46,6 +46,8 @@
 
 ## Charities/Donations
 * [GiveMatters](http://givematters.io/) - Join [Telegram](http://t.me/GiveMatters) - Provide a Community Hub for registered Charities, Not-for-Profits and NGO’s to publicise their initiatives and projects.
+* [Giving Ledger](https://givingledger.com/) - Blockchain-based transaction platform designed to build a sustainable
+ecosystem for philanthropic endeavors and positive social impact.
 * [Solution Token](https://www.solutiontoken.net/) - Join [Telegram](https://t.me/solutiontoken) - Give people the solutions of being able to start a business and create a secondary revenue stream while we aid humanitarian solutions.
 
 ## Collaborations
