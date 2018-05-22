@@ -44,6 +44,7 @@
 * [Bankorus](https://www.bankorus.com/) - Join [Telegram](https://t.me/bankorus) - The Bankorus protocol is an open-source API built on the NEM blockchain, so it's highly efficient and protected by the latest cryptography. Former name MiCai.
 * [DM Coin](http://dmc.darcmatter.com/) - Join [Telegram](https://t.me/DarcMatter) - DarcMatter is developing a blockchain based distributed ledger to remove opacity and inefficiencies from the global alternative investment industry.
 * [myCoinvest](https://www.mycoinvest.tech/) - Join [Telegram](https://t.me/joinchat/GPVrTA0Kj9JresZM3E93yA) - Ecosystem that offers an incentivized automatic savings platform powered by blockchain.
+* [Sernez](http://sernez.io) - Decentralised lending platform for educational loans.
 
 ## Charities/Donations
 * [GiveMatters](http://givematters.io/) - Join [Telegram](http://t.me/GiveMatters) - Provide a Community Hub for registered Charities, Not-for-Profits and NGO’s to publicise their initiatives and projects.
