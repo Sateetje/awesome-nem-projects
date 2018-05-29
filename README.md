@@ -69,6 +69,7 @@ ecosystem for philanthropic endeavors and positive social impact.
 * [CoderSchool](http://www.coderschool.vn/) - Proposal for Coderschool and the NEM Foundation to work together in 2018 to developers on NEM Blockchain technology ([Proposal](https://forum.nem.io/t/coderschool-funding-collaboration-with-nem/13399)).
 * [Devslopes](https://devslopes.com/blockchain) - Become a Certified NEM Blockchain Developer.
 * [nemBOX](http://nembox.io) - The Best Place to Learn NEM Blockchain.
+* [SKILLONOMY](http://skillonomy.org/) - Join [Telegram](https://t.me/skillonomy) - Online income goal-oriented peer-2-peer educational platform that tokenizes every productive user action.
 
 ## Exchanges/Trading
 * [Adara](https://adara.io/) - Join [Telegram](https://t.me/adaraecosystem) - Intelligent blockchain financial ecosystem.
