@@ -179,6 +179,7 @@ digital gift card values.
 * [PHP](https://github.com/namuyan/NEM-Api-Library)
 * [PHP](https://github.com/tomotomo9696/NEMTools_PHP)
 * [PHP](https://github.com/evias/php-nem-laravel)
+* [Python](https://github.com/namuyan/nem-python)
 * [Python](https://github.com/semolex/nis-python-client)
 * [Ruby](https://github.com/44uk/nis-ruby)
 * [Typescript/Javascript](http://nemlibrary.com/)
