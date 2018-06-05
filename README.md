@@ -190,4 +190,4 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/Sat
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-<sup>If you like this list, please feel free to send me a tip. My NEM address is: NDPE62-JJO4EC-V5UBNV-M6MQIG-2W4XX3-GRAEB3-RLBM</sup>
+<sup>If you like this list, please feel free to send me a tip. My NEM address is in my profile, thanks!</sup>
