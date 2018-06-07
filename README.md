@@ -71,6 +71,7 @@ ecosystem for philanthropic endeavors and positive social impact.
 * [Devslopes](https://devslopes.com/blockchain) - Become a Certified NEM Blockchain Developer.
 * [nemBOX](http://nembox.io) - The Best Place to Learn NEM Blockchain.
 * [SKILLONOMY](http://skillonomy.org/) - Join [Telegram](https://t.me/skillonomy) - Online income goal-oriented peer-2-peer educational platform that tokenizes every productive user action.
+* [Tutellus](https://www.tutellus.io/) - Join [Telegram](https://t.me/tutellus) - The EdTech platform that pays you for learning.
 
 ## Exchanges/Trading
 * [Adara](https://adara.io/) - Join [Telegram](https://t.me/adaraecosystem) - Intelligent blockchain financial ecosystem.
@@ -102,7 +103,6 @@ digital gift card values.
 * [Fluffr](https://www.fluffr.io) - Create the use of Augmented Reality to engage with customers.
 * [LocationCore](https://www.digital2go.com/blockchain/) - Join [Telegram](https://t.me/locationcore) - Transparent and honest data collection company using the NEM blockchain as a way to mitigate the trust relationships consumers often have with app providers.
 * [LoyalCoin](https://loyalcoin.io) - Join [Telegram](https://t.me/LoyalCoin) - Earn and use loyalty points everytime, everywhere.
-* [Tutellus](https://www.tutellus.io/) - Join [Telegram](https://t.me/tutellus) - The more you learn, the more money you get.
 
 ## Payment
 * [Choice](http://www.choicetopay.com/) - Join [Telegram](https://t.me/choicetopay) - NEM-powered payment protocol platform aiming to replace existing payment gateways with direct transactions, change consumer and retailer behaviour, and create tangible social impact at a protocol level using the NEM blockchain.
