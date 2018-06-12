@@ -31,6 +31,7 @@
 * [Digitcoin.world](https://digitcoin.world) - Join [Telegram](https://t.me/digitcoinworld) - Most powerful Total Blockchain-Based Digital Marketing Solutions and specifically designs to deliver the digital marketing solutions for brands, merchants, retailing and service industries in different type of commerce (B2B, B2C, and C2C).
 * [mynem.store](http://mynem.store/) - Webshop with NEM products and pay with XEM.
 * [Qchain](https://qchain.co) - Join [Telegram](https://t.me/qchainplatform) - Suite of open and transparent applications that provide decentralized and secure solutions for digital advertisers, in-house marketers, content publishers and everyday Internet users alike.
+* [Scanetchain](https://www.scanetchain.io/) - Join [Telegram](http://t.me/scanetchain) - Commercial dApp built on the NEM platform developed for blockchain commercialization.
 
 ## Authenticity
 * [Apostille](https://blog.nem.io/apostille/) - Second-generation blockchain notarization service.
@@ -43,9 +44,13 @@
 * [Bankorus](https://www.bankorus.com/) - Join [Telegram](https://t.me/bankorus) - The Bankorus protocol is an open-source API built on the NEM blockchain, so it's highly efficient and protected by the latest cryptography. Former name MiCai.
 * [DM Coin](http://dmc.darcmatter.com/) - Join [Telegram](https://t.me/DarcMatter) - DarcMatter is developing a blockchain based distributed ledger to remove opacity and inefficiencies from the global alternative investment industry.
 * [myCoinvest](https://www.mycoinvest.tech/) - Join [Telegram](https://t.me/joinchat/GPVrTA0Kj9JresZM3E93yA) - Ecosystem that offers an incentivized automatic savings platform powered by blockchain.
+* [SAVEN](http://saven.io/) - Enables investors of crypto-coins and tokens to reduce their volatility exposure and downside risk without the need of selling their assets for fiat.
+* [Sernez](http://sernez.io) - Join [Telegram](https://t.me/sernez) - Decentralised lending platform for educational loans.
 
 ## Charities/Donations
 * [GiveMatters](http://givematters.io/) - Join [Telegram](http://t.me/GiveMatters) - Provide a Community Hub for registered Charities, Not-for-Profits and NGO’s to publicise their initiatives and projects.
+* [Giving Ledger](https://givingledger.com/) - Blockchain-based transaction platform designed to build a sustainable
+ecosystem for philanthropic endeavors and positive social impact.
 * [Solution Token](https://www.solutiontoken.net/) - Join [Telegram](https://t.me/solutiontoken) - Give people the solutions of being able to start a business and create a secondary revenue stream while we aid humanitarian solutions.
 
 ## Collaborations
@@ -57,13 +62,16 @@
 * [Asta | Blockchain](http://www.astablockchain.com/) - We work with our clients to develop use cases for real world Blockchain solutions.
 * [Atraura Blockchain](https://www.atraurablockchain.com/) - The mission of Atraura Blockchain is to respond to the concerns of our clients related to Blockchain technology, providing talent, information and solutions that allow companies to exploit their value proposition in the clearest and most efficient way possible.
 * [Dragonfly Fintech](http://www.dfintech.com/) - Pioneering leading edge blockchain platform solution provider for a financial ecosystem, including for the payment, clearing, and settlement sector.
-* [GoBlock](https://www.goblock.io) - Make blockchain solutions accessible to companies, governments and their end users. 
+* [GoBlock](https://www.goblock.io) - Make blockchain solutions accessible to companies, governments and their end users.
+* [KCHAIN](https://kchain.kr/) - Join [Telegram](https://t.me/kchain_lab) - Leading global professional blockchain consulting company, providing a broad range of blockchain services and solutions in strategy, consulting, digital technology and operations.
 * [RapidQube Digital Solutions](http://www.rapidqube.com/) - On the NEM Blockchain implementing an advanced medical health records application.
 
 ## Education
 * [CoderSchool](http://www.coderschool.vn/) - Proposal for Coderschool and the NEM Foundation to work together in 2018 to developers on NEM Blockchain technology ([Proposal](https://forum.nem.io/t/coderschool-funding-collaboration-with-nem/13399)).
 * [Devslopes](https://devslopes.com/blockchain) - Become a Certified NEM Blockchain Developer.
 * [nemBOX](http://nembox.io) - The Best Place to Learn NEM Blockchain.
+* [SKILLONOMY](http://skillonomy.org/) - Join [Telegram](https://t.me/skillonomy) - Online income goal-oriented peer-2-peer educational platform that tokenizes every productive user action.
+* [Tutellus](https://www.tutellus.io/) - Join [Telegram](https://t.me/tutellus) - The EdTech platform that pays you for learning.
 
 ## Exchanges/Trading
 * [Adara](https://adara.io/) - Join [Telegram](https://t.me/adaraecosystem) - Intelligent blockchain financial ecosystem.
@@ -95,7 +103,6 @@ digital gift card values.
 * [Fluffr](https://www.fluffr.io) - Create the use of Augmented Reality to engage with customers.
 * [LocationCore](https://www.digital2go.com/blockchain/) - Join [Telegram](https://t.me/locationcore) - Transparent and honest data collection company using the NEM blockchain as a way to mitigate the trust relationships consumers often have with app providers.
 * [LoyalCoin](https://loyalcoin.io) - Join [Telegram](https://t.me/LoyalCoin) - Earn and use loyalty points everytime, everywhere.
-* [Tutellus](https://www.tutellus.io/) - Join [Telegram](https://t.me/tutellus) - The more you learn, the more money you get.
 
 ## Payment
 * [Choice](http://www.choicetopay.com/) - Join [Telegram](https://t.me/choicetopay) - NEM-powered payment protocol platform aiming to replace existing payment gateways with direct transactions, change consumer and retailer behaviour, and create tangible social impact at a protocol level using the NEM blockchain.
@@ -104,17 +111,22 @@ digital gift card values.
 * [Eroiy](https://www.eroiy.io/) - Join [Telegram](https://t.me/joinchat/IFoU4EnxgQAtz3qVzAvVvw) - The payment method of the adult industry. Anonymous & safe.
 * [Free Market Token](https://freemarkettoken.io/) - Join [Telegram](https://t.me/joinchat/H_P85Q7-pxvdKsIM4ZWiiA) - Powerful utility token enhancing the e-commerce experience while rewarding and protecting both shoppers and merchants on Ecryptostore.com.
 * [GCCH Coin](https://www.gcchcoin.com/index.html) - Join [Telegram](https://t.me/gcchcoins) - Blockchain technology to offer faster digital transactions and other services through smart contracts.
-* [Graft Network](https://www.graft.network) - Join [Telegram](https://t.me/GraftNet) - *Remark: Only the ICO is using NEM* - Global, open-sourced, blockchain-based, decentralized payment gateway and processing platform that anyone can use. 
+* [Graft Network](https://www.graft.network) - Join [Telegram](https://t.me/GraftNet) - *Remark: Only the ICO is using NEM* - Global, open-sourced, blockchain-based, decentralized payment gateway and processing platform that anyone can use.
+* [MealToken](https://www.mealtoken.io/) - Join [Telegram](https://t.me/joinchat/HdchmQ-OzxCUDunwz1YRVw) - World's first cryptocurrency for the franchise market.
 * [Mobi Ridesharing](http://www.mobishare.com.au) - Ridesharing app that will allow people heading in the same direction the ability to connect with each other so they can rideshare on their commute.
+* [Moocharoo](https://moocharoo.club/) - Join [Telegram](https://t.me/moocharoo) - Adventure brand with an aim to develop an exclusive club membership that is controlled through blockchain technology.
 * [NEMp3](https://nemp3v2.herokuapp.com) - Music download store, enabling artists to sell their music directly using the NEM blockchain for payment verification.
 * [NEMPay](https://blockchaintoken.tech) - Mobile app to transfer NEM assets easily and securely.
 * [Paytomat](https://paytomat.com/) - Join [Telegram](https://t.me/paytomat) - Blockchain-based payment processing system created to help merchants, consumers and crypto core teams to find each other and create real-life traction for cryptocurrencies as an emerging method of everyday payments.
 * [PundiX](https://pundix.com) - Join [Telegram](https://t.me/Pundix) - Empowering blockchain developers and token holders to sell cryptocurrency and services at any physical store in the world.
 * [SENRIYAL](https://forum.nem.io/t/sen-ri-yal-migrant-workers-remittance-crossborder-platform/13348) - Join [Telegram](https://t.me/joinchat/HNhhQRDueFAf4ayszN4fFA) - Remittance business on Blockchain platform.
+* [TokenPost](https://tokenpost.kr/) - Users would be able to utilize the issued TPC only after their membership in the TokenPost ecosystem. The token could be used to pay for participating in the conferences sponsored by TokenPost, as well as for the payment of blockchain education services. It can also be used to purchase merchandise in TokenPost Stores.
 * [TravelbyBit](https://www.travelbybit.com/) - Join [Telegram](https://t.me/TravelbyBit) - Foundational application of digital currencies is instant payment and transfers anywhere around the world.
 
 ## Platforms
+* [Day By Day](https://daybyday.io/) - Platform that manages consumer and business insurance policy needs.
 * [LATTICE80](http://www.lattice80.com/category/fintech/blockchain/) - Join [Telegram](https://t.me/LATTICE80_KAYA) - Digital platform that provides financial services together with various stakeholders in fintech and blockchain.
+* [PolicyPal Network](https://policypal.network/) - Platform built with a twofold vision of addressing key issues that overlap the fields of both insurance and cryptoassets in the world today.
 * [ProximaX](https://proximax.io) - Join [Telegram](http://t.me/ProximaXio) - ProximaX combines blockchain, storage, streaming and an advanced consensus algorithm to enable a rich, all-in-one platform for broader cross-industry application and decentralized app development.
 * [Scanetchain](https://www.scanetchain.io/) - Join [Telegram](http://t.me/scanetchain) - Decentralized open platform where users can freely define and sell their contents and products for royalty and disclosure fee.
 
@@ -126,13 +138,16 @@ digital gift card values.
 * [WooCommerce](https://wordpress.org/plugins/woo-xem-gateway/) - Buy and sell with XEM with WooCommerse.
 
 ## Registration/Tracking
+* [Agrello](https://www.agrello.org/) - Join [Telegram](https://t.me/agrello) - Self-aware agent-supported contract management on blockchains for legal accountability.
 * [Blockgrain](http://www.blockgrain.com.au) - Join [Telegram](https://t.me/blockgrain) - Comprehensive grain supply chain software solution.
 * [Copyrightbank](https://beta.copyrightbank.com) - Copyright Registration and Verification.
 * [ECObit](http://ecobit.io) - Join [Telegram](https://t.me/EcobitOfficialTelegram) - Deploy traceability disciplines on all EcoBit chain of produce movement.
 * [GreeOx](http://greeox.com/) - Join [Telegram](https://t.me/joinchat/HWPwcQ12-z5nEl88Fw2VBA) - Exceedingly automatized, high yielding container where you get the opportunity to grow a variety of greens and herbs ([Proposal](https://forum.nem.io/t/nem-community-funding-proposal-worlds-first-decentralized-indoor-farm/16243)).
+* [HIT Foundation](https://hit.foundation/) - Join [Telegram](https://t.me/healthinformationtraceability) - Equitable & sustainable healthcare enabled by a decentralized marketplace for personal health data.
 * [Landstead](http://landstead.atraurablockchain.com) - Registry of land and property, allowing government and citizens to co-create an open blockchain system that can be trusted and consulted by interested parties.
 * [Meat tracking Japan](http://mijin.io/en/992.html) (Mijin) - Streamline the meat supply chain process that will enable end consumers to trace the history of the meat, from the hunting grounds.
 * [MHub](https://mhub.my) - Join [Telegram](https://t.me/NEMHub) - Transforming the property sector through blockchain-powered property registration and verification ([Proposal](https://forum.nem.io/t/mhub-transforming-the-property-sector-through-blockchain-powered-property-registration-and-verification/13341)).
+* [VIMANA](https://twitter.com/VIMANA_AAV) - Revolutionize the Autonomous Aerial Vehicle industry by developing blockchain-based and regulated Airspace Ecosystem.
 * [Voting](https://docs.nem.io/en/nanowallet/voting-module) - Create and vote on polls stored on the NEM blockchain. 
 
 ## Security
@@ -166,6 +181,7 @@ digital gift card values.
 * [PHP](https://github.com/namuyan/NEM-Api-Library)
 * [PHP](https://github.com/tomotomo9696/NEMTools_PHP)
 * [PHP](https://github.com/evias/php-nem-laravel)
+* [Python](https://github.com/namuyan/nem-python)
 * [Python](https://github.com/semolex/nis-python-client)
 * [Ruby](https://github.com/44uk/nis-ruby)
 * [Typescript/Javascript](http://nemlibrary.com/)
@@ -176,4 +192,4 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/Sat
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-<sup>If you like this list, please feel free to send me a tip. My NEM address is: NDPE62-JJO4EC-V5UBNV-M6MQIG-2W4XX3-GRAEB3-RLBM</sup>
+<sup>If you like this list, please feel free to send me a tip. My NEM address is in my profile, thanks!</sup>
