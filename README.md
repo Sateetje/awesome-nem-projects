@@ -120,6 +120,7 @@ digital gift card values.
 * [Paytomat](https://paytomat.com/) - Join [Telegram](https://t.me/paytomat) - Blockchain-based payment processing system created to help merchants, consumers and crypto core teams to find each other and create real-life traction for cryptocurrencies as an emerging method of everyday payments.
 * [PundiX](https://pundix.com) - Join [Telegram](https://t.me/Pundix) - Empowering blockchain developers and token holders to sell cryptocurrency and services at any physical store in the world.
 * [SENRIYAL](https://forum.nem.io/t/sen-ri-yal-migrant-workers-remittance-crossborder-platform/13348) - Join [Telegram](https://t.me/joinchat/HNhhQRDueFAf4ayszN4fFA) - Remittance business on Blockchain platform.
+* [TokenPost](https://tokenpost.kr/) - Users would be able to utilize the issued TPC only after their membership in the TokenPost ecosystem. The token could be used to pay for participating in the conferences sponsored by TokenPost, as well as for the payment of blockchain education services. It can also be used to purchase merchandise in TokenPost Stores.
 * [TravelbyBit](https://www.travelbybit.com/) - Join [Telegram](https://t.me/TravelbyBit) - Foundational application of digital currencies is instant payment and transfers anywhere around the world.
 
 ## Platforms
