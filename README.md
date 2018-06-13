@@ -126,6 +126,7 @@ digital gift card values.
 ## Platforms
 * [Day By Day](https://daybyday.io/) - Platform that manages consumer and business insurance policy needs.
 * [LATTICE80](http://www.lattice80.com/category/fintech/blockchain/) - Join [Telegram](https://t.me/LATTICE80_KAYA) - Digital platform that provides financial services together with various stakeholders in fintech and blockchain.
+* [ORIGINS](https://forum.nem.io/t/origins-transparency-trust-in-textile-supply-chain-nem-community-fund-proposal/17112) - Join [Telegram](https://t.me/OriginsonNEM) - Platform which enables transparent sourcing and authentication of raw materials in global supply chains.
 * [PolicyPal Network](https://policypal.network/) - Platform built with a twofold vision of addressing key issues that overlap the fields of both insurance and cryptoassets in the world today.
 * [ProximaX](https://proximax.io) - Join [Telegram](http://t.me/ProximaXio) - ProximaX combines blockchain, storage, streaming and an advanced consensus algorithm to enable a rich, all-in-one platform for broader cross-industry application and decentralized app development.
 * [Scanetchain](https://www.scanetchain.io/) - Join [Telegram](http://t.me/scanetchain) - Decentralized open platform where users can freely define and sell their contents and products for royalty and disclosure fee.
