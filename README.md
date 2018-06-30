@@ -172,6 +172,8 @@ digital gift card values.
 * [NEM Trezor Standalone](https://github.com/saleemrashid/nem-trezor-standalone/) - Offline tool for recovering NEM private keys from BIP39 mnemonics and importing them into NanoWallet.
 * [XEMBook](http://xembook.net/en)
 * [XEMSign](https://github.com/kodty/MultisigTransactionSigner) - Simple bot for signing XEM multisignature transactions with optional signing rules.
+* [Blockstart token sale api](https://github.com/blockstart/nem-coinbase-token-sale-api) - This repo provides all of the code needed to operate a token sale on the NEM blockchain (api).
+* [Blockstart oken sale web](https://github.com/blockstart/nem-coinbase-token-sale-website) - This repo provides all of the code needed to operate a token sale on the NEM blockchain (website).
 
 ## Wrappers
 * [C#](https://github.com/NemProject/csharp2nem)
