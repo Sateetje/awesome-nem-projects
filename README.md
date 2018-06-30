@@ -125,7 +125,9 @@ digital gift card values.
 
 ## Platforms
 * [Day By Day](https://daybyday.io/) - Platform that manages consumer and business insurance policy needs.
+* [Empleos](https://empleos.io/) - Join [Telegram](https://t.me/EmpleosIO) - New technology platform that brings Blockchain, Machine Learning and Rewards system into the online recruiting market.
 * [LATTICE80](http://www.lattice80.com/category/fintech/blockchain/) - Join [Telegram](https://t.me/LATTICE80_KAYA) - Digital platform that provides financial services together with various stakeholders in fintech and blockchain.
+* [ORIGINS](https://forum.nem.io/t/origins-transparency-trust-in-textile-supply-chain-nem-community-fund-proposal/17112) - Join [Telegram](https://t.me/OriginsonNEM) - Platform which enables transparent sourcing and authentication of raw materials in global supply chains.
 * [PolicyPal Network](https://policypal.network/) - Platform built with a twofold vision of addressing key issues that overlap the fields of both insurance and cryptoassets in the world today.
 * [ProximaX](https://proximax.io) - Join [Telegram](http://t.me/ProximaXio) - ProximaX combines blockchain, storage, streaming and an advanced consensus algorithm to enable a rich, all-in-one platform for broader cross-industry application and decentralized app development.
 * [Scanetchain](https://www.scanetchain.io/) - Join [Telegram](http://t.me/scanetchain) - Decentralized open platform where users can freely define and sell their contents and products for royalty and disclosure fee.
@@ -147,7 +149,7 @@ digital gift card values.
 * [Landstead](http://landstead.atraurablockchain.com) - Registry of land and property, allowing government and citizens to co-create an open blockchain system that can be trusted and consulted by interested parties.
 * [Meat tracking Japan](http://mijin.io/en/992.html) (Mijin) - Streamline the meat supply chain process that will enable end consumers to trace the history of the meat, from the hunting grounds.
 * [MHub](https://mhub.my) - Join [Telegram](https://t.me/NEMHub) - Transforming the property sector through blockchain-powered property registration and verification ([Proposal](https://forum.nem.io/t/mhub-transforming-the-property-sector-through-blockchain-powered-property-registration-and-verification/13341)).
-* [Mulechain](https://www.mulechain.com/) - MuleChain aims to help millions participate in the global sharing economy by redefining global peer-to-peer logistics.
+* [MuleChain](https://www.mulechain.com/) - Join [Telegram](https://t.me/MuleChain) - Help millions participate in the global sharing economy by redefining global peer-to-peer logistics.
 * [VIMANA](https://twitter.com/VIMANA_AAV) - Revolutionize the Autonomous Aerial Vehicle industry by developing blockchain-based and regulated Airspace Ecosystem.
 * [Voting](https://docs.nem.io/en/nanowallet/voting-module) - Create and vote on polls stored on the NEM blockchain. 
 
