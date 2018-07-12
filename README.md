@@ -199,7 +199,7 @@ digital gift card values.
 
 ## Wallet
 * [CacheWallet](https://github.com/cache-official/cache-wallet) - The official cross platform wallet for the Cache cryptocurrency.
-* [NanoWallet](https://github.com/NemProject/NanoWallet) - Official NEM Wallet
+* [NanoWallet](https://github.com/NemProject/NanoWallet) - Official NEM Wallet.
 * [RaccoonWallet](https://github.com/SasakiYuki/RaccoonWallet) - NEM Mobile Wallet app developed in Japan aiming for the easiest ease of use in the world.
 
 ## Wrappers
