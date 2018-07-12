@@ -5,6 +5,7 @@
 > A curated list of companies, projects and ICO's using the NEM blockchain (some are using Mijin, the private version of NEM, or in combination). This list doesn't contain websites that accepts XEM as payment (hard to maintain).
 
 ## Contents
+* [Augmented Reality](#augmented-reality)
 * [Advertizing/Marketing](#advertizingmarketing)
 * [Authenticity](#authenticity)
 * [Banking/Investments/Savings](#bankinginvestmentssavings)
@@ -17,6 +18,7 @@
 * [Initial Coin Offering](#initial-coin-offering)
 * [Internet of Things](#internet-of-things)
 * [Loyalty/Rewarding](#loyaltyrewarding)
+* [Music](#music)
 * [Payment](#payment)
 * [Platforms](#platforms)
 * [Plugins](#plugins)
@@ -27,6 +29,11 @@
 * [Tools](#tools)
 * [Wrappers](#wrappers)
 
+## Augmented Reality
+* [Fluffr](https://www.fluffr.io) - Create the use of Augmented Reality to engage with customers.
+* [Scanetchain](https://www.scanetchain.io/) - Join [Telegram](http://t.me/scanetchain) - Decentralized open platform where users can freely define and sell their contents and products for royalty and disclosure fee.
+* [Verses](http://www.verses.io/) - VERSES mission is to empower designers, developers, organizations and individuals to create, monetize and experience the most dynamic, interactive and meaningful immersive experiences imaginable.
+
 ## Advertizing/Marketing
 * [Digitcoin.world](https://digitcoin.world) - Join [Telegram](https://t.me/digitcoinworld) - Most powerful Total Blockchain-Based Digital Marketing Solutions and specifically designs to deliver the digital marketing solutions for brands, merchants, retailing and service industries in different type of commerce (B2B, B2C, and C2C).
 * [mynem.store](http://mynem.store/) - Webshop with NEM products and pay with XEM.
@@ -35,6 +42,7 @@
 
 ## Authenticity
 * [Apostille](https://blog.nem.io/apostille/) - Second-generation blockchain notarization service.
+* [Copyrightbank](https://beta.copyrightbank.com) - Copyright registration and verification.
 * [LuxTag](http://luxtag.io) - Digitized certificates of authenticity for products (or machines, or vehicles, etc.) on a blockchain.
 * [OpenApostille](https://www.openapostille.net/) - OpenApostille is a service with which you can share your Apostille created by NEM Wallet (NanoWallet) with everyone.
 * [PROVER](https://prover.io/) - Join [Telegram](https://t.me/prover_nem) - PROVER is a blockchain service for confirming the authenticity of the events, facts, or phenomena ([Proposal](https://forum.nem.io/t/prover-a-block-hain-service-for-confirming-the-authenticity-of-events-facts-or-phenomena/13210)).
@@ -61,16 +69,21 @@ ecosystem for philanthropic endeavors and positive social impact.
 * [Aerotrading Ltd](http://aerotrading.co/) - The biggest blockchain consultancy company.
 * [Asta | Blockchain](http://www.astablockchain.com/) - We work with our clients to develop use cases for real world Blockchain solutions.
 * [Atraura Blockchain](https://www.atraurablockchain.com/) - The mission of Atraura Blockchain is to respond to the concerns of our clients related to Blockchain technology, providing talent, information and solutions that allow companies to exploit their value proposition in the clearest and most efficient way possible.
+* [CerebralFix](https://cerebralfix.com/) - Gaming studios, in collaboration with Xarcade, that envisions creating web and mobile games based on NEM blockchain technology.
 * [Dragonfly Fintech](http://www.dfintech.com/) - Pioneering leading edge blockchain platform solution provider for a financial ecosystem, including for the payment, clearing, and settlement sector.
 * [GoBlock](https://www.goblock.io) - Make blockchain solutions accessible to companies, governments and their end users.
+* [He3Labs](https://www.he3labs.com/) - We assess, architect, and develop blockchain solutions that bring the power of enterprise-level security, auditability, and scale to any organization.
 * [KCHAIN](https://kchain.kr/) - Join [Telegram](https://t.me/kchain_lab) - Leading global professional blockchain consulting company, providing a broad range of blockchain services and solutions in strategy, consulting, digital technology and operations.
 * [RapidQube Digital Solutions](http://www.rapidqube.com/) - On the NEM Blockchain implementing an advanced medical health records application.
+* [Tech Bureau](https://techbureau.com/) - Fintech and cryptocurrency group company in Japan, the U.S. and Europe. Develops software and services for blockchain technology.
 
 ## Education
+* [Cache](https://getcache.io/platforms) - Series of platforms that will help make blockchain more usable & accessible to developers and businesses throughout the world.
 * [CoderSchool](http://www.coderschool.vn/) - Proposal for Coderschool and the NEM Foundation to work together in 2018 to developers on NEM Blockchain technology ([Proposal](https://forum.nem.io/t/coderschool-funding-collaboration-with-nem/13399)).
 * [Devslopes](https://devslopes.com/blockchain) - Become a Certified NEM Blockchain Developer.
 * [nemBOX](http://nembox.io) - The Best Place to Learn NEM Blockchain.
 * [SKILLONOMY](http://skillonomy.org/) - Join [Telegram](https://t.me/skillonomy) - Online income goal-oriented peer-2-peer educational platform that tokenizes every productive user action.
+* [RocketShoes](https://rocketshoes.io/) - Join [Telegram](https://t.me/RocketShoes_Community) - blockchain powered digital asset platform for the future of education and work.
 * [Tutellus](https://www.tutellus.io/) - Join [Telegram](https://t.me/tutellus) - The EdTech platform that pays you for learning.
 
 ## Exchanges/Trading
@@ -83,11 +96,13 @@ digital gift card values.
 * [NEM Exchange](http://www.the-blockchain.com/2017/07/27/nem-io-foundation-create-xem-exchange/) - Join [Telegram](https://t.me/nemred) - NEM.io Foundation XEM Exchange.
 * [nemchange](http://nemchange.com) - Join [Telegram](https://t.me/joinchat/EldJ3RBgvHBIdCbnQjAjMQ) - Website where you can sell and buy NEM based tokens (called mosaics) and (in the future) other cryptocurrencies.
 * [NEMventory](https://github.com/RobertoSnap/nemventory) - Trade and inventory system backed on NEM blockchain.
+* [Token AI](https://tokenai.io/) - Join [Telegram](https://t.me/tokenai) - On demand crypto market and portfolio analysis, driven by Artificial Intelligence (AI).
 * [Zaif](https://zaif.jp/?lang=en3) (Mijin) - Exchange.
 * [Zeus Exchange](http://zeus.exchange) - Join [Telegram](https://t.me/zeus_exchange) - Hybrid decentralized trading platform for the financial industry of tomorrow.
 
 ## Gaming
 * [bclotto.io](http://bclotto.io/) - Join [Telegram](https://t.me/blockchainlotto) - Blockchain Lotto based on NEM.
+* [Gamefix](https://www.gamefix.io/) - The first big project between this partnership is MATCH'nem! a fun match 3 game with regular level updates and community driven content.
 * [PacNEM](https://www.pacnem.com) - Check [Source](https://github.com/evias/pacNEM) - Free & Open Source Node.js Autonomous Game using the NEM blockchain.
 * [Xarcade](https://www.xarcade.io) - Join [Telegram](https://t.me/xarcadeofficial) - NEM powered cost-effective video game distribution/exchange platform for both game publishers and gamers to use.
 
@@ -99,10 +114,12 @@ digital gift card values.
 
 ## Loyalty/Rewarding
 * [cacheout](https://cacheout.io/) - Platform where developers can be rewarded by helping others solve their code problems.
-* [FamilyPoints](https://familypoints.io/) - Join [Telegram](https://t.me/familypointstoken) - World’s first fully transparent blockchain ledger which stores information about reviews, rewards, and transactions to build a system of trust for children’s products and education.
-* [Fluffr](https://www.fluffr.io) - Create the use of Augmented Reality to engage with customers.
+* [FamilyPoints](https://familypoints.io/) - Join [Telegram](https://t.me/familypointstoken) - World’s first fully transparent blockchain ledger which stores information about reviews, rewards, and transactions to build a system of trust for children’s products and education (DISCONTINUED).
 * [LocationCore](https://www.digital2go.com/blockchain/) - Join [Telegram](https://t.me/locationcore) - Transparent and honest data collection company using the NEM blockchain as a way to mitigate the trust relationships consumers often have with app providers.
 * [LoyalCoin](https://loyalcoin.io) - Join [Telegram](https://t.me/LoyalCoin) - Earn and use loyalty points everytime, everywhere.
+
+## Music
+* [Tune Token](https://www.tunetoken.io/) - Join [Telegram](https://t.me/RecordgramICO) - Democratized ecosystem for the music industry.
 
 ## Payment
 * [Choice](http://www.choicetopay.com/) - Join [Telegram](https://t.me/choicetopay) - NEM-powered payment protocol platform aiming to replace existing payment gateways with direct transactions, change consumer and retailer behaviour, and create tangible social impact at a protocol level using the NEM blockchain.
@@ -130,7 +147,6 @@ digital gift card values.
 * [ORIGINS](https://forum.nem.io/t/origins-transparency-trust-in-textile-supply-chain-nem-community-fund-proposal/17112) - Join [Telegram](https://t.me/OriginsonNEM) - Platform which enables transparent sourcing and authentication of raw materials in global supply chains.
 * [PolicyPal Network](https://policypal.network/) - Platform built with a twofold vision of addressing key issues that overlap the fields of both insurance and cryptoassets in the world today.
 * [ProximaX](https://proximax.io) - Join [Telegram](http://t.me/ProximaXio) - ProximaX combines blockchain, storage, streaming and an advanced consensus algorithm to enable a rich, all-in-one platform for broader cross-industry application and decentralized app development.
-* [Scanetchain](https://www.scanetchain.io/) - Join [Telegram](http://t.me/scanetchain) - Decentralized open platform where users can freely define and sell their contents and products for royalty and disclosure fee.
 
 ## Plugins
 * [NEM DNS](http://nem-dns.bitballoon.com) - Check [Source](https://github.com/aenima86/NEM-DNS) - Decentralized, censorship free and updatable DNS.
@@ -142,7 +158,7 @@ digital gift card values.
 ## Registration/Tracking
 * [Agrello](https://www.agrello.org/) - Join [Telegram](https://t.me/agrello) - Self-aware agent-supported contract management on blockchains for legal accountability.
 * [Blockgrain](http://www.blockgrain.com.au) - Join [Telegram](https://t.me/blockgrain) - Comprehensive grain supply chain software solution.
-* [Copyrightbank](https://beta.copyrightbank.com) - Copyright Registration and Verification.
+* [C Estates](https://cestates.io/) - Join [Telegram](https://t.me/cestates_io) - Real estate transaction easy and accessible to everyone.
 * [ECObit](http://ecobit.io) - Join [Telegram](https://t.me/EcobitOfficialTelegram) - Deploy traceability disciplines on all EcoBit chain of produce movement.
 * [GreeOx](http://greeox.com/) - Join [Telegram](https://t.me/joinchat/HWPwcQ12-z5nEl88Fw2VBA) - Exceedingly automatized, high yielding container where you get the opportunity to grow a variety of greens and herbs ([Proposal](https://forum.nem.io/t/nem-community-funding-proposal-worlds-first-decentralized-indoor-farm/16243)).
 * [HIT Foundation](https://hit.foundation/) - Join [Telegram](https://t.me/healthinformationtraceability) - Equitable & sustainable healthcare enabled by a decentralized marketplace for personal health data.
@@ -176,6 +192,8 @@ digital gift card values.
 * [Blockstart token sale web](https://github.com/blockstart/nem-coinbase-token-sale-website) - This repo provides all of the code needed to operate a token sale on the NEM blockchain (website).
 
 ## Wallet
+* [CacheWallet](https://github.com/cache-official/cache-wallet) - The official cross platform wallet for the Cache cryptocurrency.
+* [NanoWallet](https://github.com/NemProject/NanoWallet) - Official NEM Wallet
 * [RaccoonWallet](https://github.com/SasakiYuki/RaccoonWallet) - NEM Mobile Wallet app developed in Japan aiming for the easiest ease of use in the world.
 
 ## Wrappers
