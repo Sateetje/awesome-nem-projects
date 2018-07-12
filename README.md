@@ -168,6 +168,7 @@ digital gift card values.
 * [MuleChain](https://www.mulechain.com/) - Join [Telegram](https://t.me/MuleChain) - Help millions participate in the global sharing economy by redefining global peer-to-peer logistics.
 * [VIMANA](https://twitter.com/VIMANA_AAV) - Revolutionize the Autonomous Aerial Vehicle industry by developing blockchain-based and regulated Airspace Ecosystem.
 * [Voting](https://docs.nem.io/en/nanowallet/voting-module) - Create and vote on polls stored on the NEM blockchain. 
+* [Xarbon](http://xarbon.com/) - Join [Telegram](https://t.me/XarbonOCO) - Creating a transparent carbon market for a sustainable future.
 
 ## Security
 * [NEM krs](https://github.com/aenima86/NEMkrs) - Key Recovery Service (KRS).
