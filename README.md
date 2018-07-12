@@ -63,6 +63,7 @@ ecosystem for philanthropic endeavors and positive social impact.
 
 ## Collaborations
 * [Pantos](https://pantos.io/) - Join [Telegram](https://t.me/pantosIO) - The first multi-blockchain token system.
+* [Pillar Project](https://pillarproject.io/) - Join [Telegram](https://t.me/pillarofficial) - Return control over personal data back to its rightful owner - you.
 * [XPOS Consortium](https://xpos.co/) - XPOS Consortium will transform the traditional economy with a solution that unites loyalty points, alternative payment gateways, payment devices as means, crypto payment service providers, crypto remittance agents, licensed money services companies into one.
 
 ## Companies
