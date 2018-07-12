@@ -146,6 +146,7 @@ digital gift card values.
 ## Platforms
 * [Day By Day](https://daybyday.io/) - Platform that manages consumer and business insurance policy needs.
 * [Empleos](https://empleos.io/) - Join [Telegram](https://t.me/EmpleosIO) - New technology platform that brings Blockchain, Machine Learning and Rewards system into the online recruiting market.
+* [IP Gold](https://ip.gold/) - Join [Telegram](https://t.me/ipgoldHQ) - IP.Gold Ecosystem is a set of IP-based services, including email, online advertising, content publishing, proxy, VPN, cloud services, and more, that are monetized both simultaneously and in a one-to-one life-cycle that creates long-term retail and wholesale service revenues.
 * [LATTICE80](http://www.lattice80.com/category/fintech/blockchain/) - Join [Telegram](https://t.me/LATTICE80_KAYA) - Digital platform that provides financial services together with various stakeholders in fintech and blockchain.
 * [ORIGINS](https://forum.nem.io/t/origins-transparency-trust-in-textile-supply-chain-nem-community-fund-proposal/17112) - Join [Telegram](https://t.me/OriginsonNEM) - Platform which enables transparent sourcing and authentication of raw materials in global supply chains.
 * [PolicyPal Network](https://policypal.network/) - Platform built with a twofold vision of addressing key issues that overlap the fields of both insurance and cryptoassets in the world today.
