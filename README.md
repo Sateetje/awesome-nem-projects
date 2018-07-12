@@ -150,6 +150,7 @@ digital gift card values.
 * [ORIGINS](https://forum.nem.io/t/origins-transparency-trust-in-textile-supply-chain-nem-community-fund-proposal/17112) - Join [Telegram](https://t.me/OriginsonNEM) - Platform which enables transparent sourcing and authentication of raw materials in global supply chains.
 * [PolicyPal Network](https://policypal.network/) - Platform built with a twofold vision of addressing key issues that overlap the fields of both insurance and cryptoassets in the world today.
 * [ProximaX](https://proximax.io) - Join [Telegram](http://t.me/ProximaXio) - ProximaX combines blockchain, storage, streaming and an advanced consensus algorithm to enable a rich, all-in-one platform for broader cross-industry application and decentralized app development.
+* [WatermelonBlock](https://watermelonblock.io/) - Join [Telegram]( https://telegram.me/WMBcommunity) - Utilizes an AI-powered technology tool designed for cryptocurrency investors and traders, with a range of products, the WatermelonBlock Product Suite, made available through the WatermelonBlock app. 
 
 ## Plugins
 * [NEM DNS](http://nem-dns.bitballoon.com) - Check [Source](https://github.com/aenima86/NEM-DNS) - Decentralized, censorship free and updatable DNS.
