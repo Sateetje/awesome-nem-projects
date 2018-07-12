@@ -104,6 +104,7 @@ digital gift card values.
 * [bclotto.io](http://bclotto.io/) - Join [Telegram](https://t.me/blockchainlotto) - Blockchain Lotto based on NEM.
 * [Gamefix](https://www.gamefix.io/) - The first big project between this partnership is MATCH'nem! a fun match 3 game with regular level updates and community driven content.
 * [PacNEM](https://www.pacnem.com) - Check [Source](https://github.com/evias/pacNEM) - Free & Open Source Node.js Autonomous Game using the NEM blockchain.
+* [ReadyPlayGo](https://readyplaygo.com/) - The world's first real gaming app store.
 * [Xarcade](https://www.xarcade.io) - Join [Telegram](https://t.me/xarcadeofficial) - NEM powered cost-effective video game distribution/exchange platform for both game publishers and gamers to use.
 
 ## Initial Coin Offering
