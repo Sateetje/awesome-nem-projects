@@ -117,6 +117,7 @@ digital gift card values.
 
 ## Loyalty/Rewarding
 * [cacheout](https://cacheout.io/) - Platform where developers can be rewarded by helping others solve their code problems.
+* [Engate](https://engate.jp/en/) - Connecting people and their dreams through the power of technology.
 * [FamilyPoints](https://familypoints.io/) - Join [Telegram](https://t.me/familypointstoken) - World’s first fully transparent blockchain ledger which stores information about reviews, rewards, and transactions to build a system of trust for children’s products and education (DISCONTINUED).
 * [LocationCore](https://www.digital2go.com/blockchain/) - Join [Telegram](https://t.me/locationcore) - Transparent and honest data collection company using the NEM blockchain as a way to mitigate the trust relationships consumers often have with app providers.
 * [LoyalCoin](https://loyalcoin.io) - Join [Telegram](https://t.me/LoyalCoin) - Earn and use loyalty points everytime, everywhere.
