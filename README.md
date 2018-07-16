@@ -172,6 +172,7 @@ digital gift card values.
 * [Meat tracking Japan](http://mijin.io/en/992.html) (Mijin) - Streamline the meat supply chain process that will enable end consumers to trace the history of the meat, from the hunting grounds.
 * [MHub](https://mhub.my) - Join [Telegram](https://t.me/NEMHub) - Transforming the property sector through blockchain-powered property registration and verification ([Proposal](https://forum.nem.io/t/mhub-transforming-the-property-sector-through-blockchain-powered-property-registration-and-verification/13341)).
 * [MuleChain](https://www.mulechain.com/) - Join [Telegram](https://t.me/MuleChain) - Help millions participate in the global sharing economy by redefining global peer-to-peer logistics.
+* [NEMWill](https://www.facebook.com/NEMWill2018/) - Join [Telegram](https://t.me/nemwill) - Our mission is to ensure that your most valuable assets are given to the people you love.
 * [VIMANA](https://twitter.com/VIMANA_AAV) - Revolutionize the Autonomous Aerial Vehicle industry by developing blockchain-based and regulated Airspace Ecosystem.
 * [Voting](https://docs.nem.io/en/nanowallet/voting-module) - Create and vote on polls stored on the NEM blockchain. 
 * [Xarbon](http://xarbon.com/) - Join [Telegram](https://t.me/XarbonOCO) - Creating a transparent carbon market for a sustainable future.
