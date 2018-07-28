@@ -136,7 +136,7 @@ digital gift card values.
 * [MealToken](https://www.mealtoken.io/) - Join [Telegram](https://t.me/joinchat/HdchmQ-OzxCUDunwz1YRVw) - World's first cryptocurrency for the franchise market.
 * [Mobi Ridesharing](http://www.mobishare.com.au) - Ridesharing app that will allow people heading in the same direction the ability to connect with each other so they can rideshare on their commute.
 * [Moocharoo](https://moocharoo.club/) - Join [Telegram](https://t.me/moocharoo) - Adventure brand with an aim to develop an exclusive club membership that is controlled through blockchain technology.
-* [NEMp3](https://nemp3v2.herokuapp.com) - Music download store, enabling artists to sell their music directly using the NEM blockchain for payment verification.
+* [NEMp3](https://nemp3.app) - Music download store, using NEM to facilitate direct payments from fan to artist.
 * [NEMPay](https://blockchaintoken.tech) - Mobile app to transfer NEM assets easily and securely.
 * [Paytomat](https://paytomat.com/) - Join [Telegram](https://t.me/paytomat) - Blockchain-based payment processing system created to help merchants, consumers and crypto core teams to find each other and create real-life traction for cryptocurrencies as an emerging method of everyday payments.
 * [PundiX](https://pundix.com) - Join [Telegram](https://t.me/Pundix) - Empowering blockchain developers and token holders to sell cryptocurrency and services at any physical store in the world.
