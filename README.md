@@ -42,7 +42,7 @@
 
 ## Authenticity
 * [Apostille](https://blog.nem.io/apostille/) - Second-generation blockchain notarization service.
-* [Copyrightbank](https://beta.copyrightbank.com) - Copyright registration and verification.
+* [CopyrightBank](https://beta.copyrightbank.com) - Copyright registration and verification.
 * [LuxTag](http://luxtag.io) - Digitized certificates of authenticity for products (or machines, or vehicles, etc.) on a blockchain.
 * [OpenApostille](https://www.openapostille.net/) - OpenApostille is a service with which you can share your Apostille created by NEM Wallet (NanoWallet) with everyone.
 * [PROVER](https://prover.io/) - Join [Telegram](https://t.me/prover_nem) - PROVER is a blockchain service for confirming the authenticity of the events, facts, or phenomena ([Proposal](https://forum.nem.io/t/prover-a-block-hain-service-for-confirming-the-authenticity-of-events-facts-or-phenomena/13210)).
