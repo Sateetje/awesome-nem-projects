@@ -105,6 +105,7 @@ digital gift card values.
 ## Gaming
 * [bclotto.io](http://bclotto.io/) - Join [Telegram](https://t.me/blockchainlotto) - Blockchain Lotto based on NEM.
 * [Gamefix](https://www.gamefix.io/) - The first big project between this partnership is MATCH'nem! a fun match 3 game with regular level updates and community driven content.
+* [NEMonster](https://github.com/aenima86/NEMonster) - A witty little collection game based on the NEM blockchain..
 * [PacNEM](https://www.pacnem.com) - Check [Source](https://github.com/evias/pacNEM) - Free & Open Source Node.js Autonomous Game using the NEM blockchain.
 * [ReadyPlayGo](https://readyplaygo.com/) - The world's first real gaming app store.
 * [Xarcade](https://www.xarcade.io) - Join [Telegram](https://t.me/xarcadeofficial) - NEM powered cost-effective video game distribution/exchange platform for both game publishers and gamers to use.
@@ -150,6 +151,7 @@ digital gift card values.
 * [IP Gold](https://ip.gold/) - Join [Telegram](https://t.me/ipgoldHQ) - IP.Gold Ecosystem is a set of IP-based services, including email, online advertising, content publishing, proxy, VPN, cloud services, and more, that are monetized both simultaneously and in a one-to-one life-cycle that creates long-term retail and wholesale service revenues.
 * [LATTICE80](http://www.lattice80.com/category/fintech/blockchain/) - Join [Telegram](https://t.me/LATTICE80_KAYA) - Digital platform that provides financial services together with various stakeholders in fintech and blockchain.
 * [ORIGINS](https://forum.nem.io/t/origins-transparency-trust-in-textile-supply-chain-nem-community-fund-proposal/17112) - Join [Telegram](https://t.me/OriginsonNEM) - Platform which enables transparent sourcing and authentication of raw materials in global supply chains.
+* [Publish](http://www.publishprotocol.io/) - Next generation blockchain-powered news publishing software protocol.
 * [PolicyPal Network](https://policypal.network/) - Platform built with a twofold vision of addressing key issues that overlap the fields of both insurance and cryptoassets in the world today.
 * [ProximaX](https://proximax.io) - Join [Telegram](http://t.me/ProximaXio) - ProximaX combines blockchain, storage, streaming and an advanced consensus algorithm to enable a rich, all-in-one platform for broader cross-industry application and decentralized app development.
 * [WatermelonBlock](https://watermelonblock.io/) - Join [Telegram]( https://telegram.me/WMBcommunity) - Utilizes an AI-powered technology tool designed for cryptocurrency investors and traders, with a range of products, the WatermelonBlock Product Suite, made available through the WatermelonBlock app. 
