@@ -193,13 +193,14 @@ digital gift card values.
 * [NemNotificationsBot](https://t.me/NemNotificationsBot) - Telegram NEM Notifications Bot
 
 ## Tools
+* [Blockstart token sale api](https://github.com/blockstart/nem-coinbase-token-sale-api) - This repo provides all of the code needed to operate a token sale on the NEM blockchain (api).
+* [Blockstart token sale web](https://github.com/blockstart/nem-coinbase-token-sale-website) - This repo provides all of the code needed to operate a token sale on the NEM blockchain (website).
+* [NEM Address Generator](https://bitbucket.org/bad_weather_corp/nem_tools/src) - Generate an address which starts with xxxx and/or ends with xxxx.
 * [NEM Authenticator](https://github.com/aleixmorgadas/NEM-Authenticator) - 100% decentralized 2 Factor Confirmation system to secure your account assets from being stolen using the NEM Blockchain native features.
 * [NEM ICO Project](https://github.com/aleixmorgadas/nem-ico-project) - Collaborative project that shows a working project of "How to create a ICO with NEM Blockchain".
 * [NEM Trezor Standalone](https://github.com/saleemrashid/nem-trezor-standalone/) - Offline tool for recovering NEM private keys from BIP39 mnemonics and importing them into NanoWallet.
 * [XEMBook](http://xembook.net/en) - A ledger tool library which examines the ledger of NEM and can grasp the NEM activity so far.
 * [XEMSign](https://github.com/kodty/MultisigTransactionSigner) - Simple bot for signing XEM multisignature transactions with optional signing rules.
-* [Blockstart token sale api](https://github.com/blockstart/nem-coinbase-token-sale-api) - This repo provides all of the code needed to operate a token sale on the NEM blockchain (api).
-* [Blockstart token sale web](https://github.com/blockstart/nem-coinbase-token-sale-website) - This repo provides all of the code needed to operate a token sale on the NEM blockchain (website).
 
 ## Wallet
 * [CacheWallet](https://github.com/cache-official/cache-wallet) - The official cross platform wallet for the Cache cryptocurrency.
