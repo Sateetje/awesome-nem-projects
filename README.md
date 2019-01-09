@@ -201,6 +201,7 @@ digital gift card values.
 * [NEM Trezor Standalone](https://github.com/saleemrashid/nem-trezor-standalone/) - Offline tool for recovering NEM private keys from BIP39 mnemonics and importing them into NanoWallet.
 * [XEMBook](http://xembook.net/en) - A ledger tool library which examines the ledger of NEM and can grasp the NEM activity so far.
 * [XEMSign](https://github.com/kodty/MultisigTransactionSigner) - Simple bot for signing XEM multisignature transactions with optional signing rules.
+* [Nagit](https://github.com/ccastromar/nagit) - NEM API Graphical Interactive Tool for testing REST APIs calling NIS Nodes.
 
 ## Wallet
 * [CacheWallet](https://github.com/cache-official/cache-wallet) - The official cross platform wallet for the Cache cryptocurrency.
