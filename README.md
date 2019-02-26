@@ -31,7 +31,7 @@
 * [Wrappers](#wrappers)
 
 ## Augmented Reality
-* [Fluffr] - Create the use of Augmented Reality to engage with customers. (DISCONTINUED)
+* [Fluffr](https://www.nem.io/) - Create the use of Augmented Reality to engage with customers. (DISCONTINUED)
 * [Scanetchain](https://www.scanetchain.io/) - Join [Telegram](http://t.me/scanetchain) - Decentralized open platform where users can freely define and sell their contents and products for royalty and disclosure fee.
 * [Verses](https://www.verses.io/) - VERSES mission is to empower designers, developers, organizations and individuals to create, monetize and experience the most dynamic, interactive and meaningful immersive experiences imaginable.
 
@@ -60,7 +60,7 @@
 * [GiveMatters](http://givematters.io/) - Join [Telegram](http://t.me/GiveMatters) - Provide a Community Hub for registered Charities, Not-for-Profits and NGO’s to publicise their initiatives and projects.
 * [Giving Ledger](https://givingledger.com/) - Blockchain-based transaction platform designed to build a sustainable
 ecosystem for philanthropic endeavors and positive social impact.
-* [Solution Token] - Join [Telegram](https://t.me/solutiontoken) - Give people the solutions of being able to start a business and create a secondary revenue stream while we aid humanitarian solutions. (DISCONTINUED)
+* [Solution Token](https://www.nem.io/) - Join [Telegram](https://t.me/solutiontoken) - Give people the solutions of being able to start a business and create a secondary revenue stream while we aid humanitarian solutions. (DISCONTINUED)
 
 ## Collaborations
 * [Pantos](https://pantos.io/) - Join [Telegram](https://t.me/pantosIO) - The first multi-blockchain token system.
@@ -81,7 +81,7 @@ ecosystem for philanthropic endeavors and positive social impact.
 * [Tech Bureau](https://techbureau.com/) - Fintech and cryptocurrency group company in Japan, the U.S. and Europe. Develops software and services for blockchain technology.
 
 ## Education
-* [Cache] - Series of platforms that will help make blockchain more usable & accessible to developers and businesses throughout the world. (DISCONTINUED)
+* [Cache](https://www.nem.io/) - Series of platforms that will help make blockchain more usable & accessible to developers and businesses throughout the world. (DISCONTINUED)
 * [CoderSchool](http://www.coderschool.vn/) - Proposal for Coderschool and the NEM Foundation to work together in 2018 to developers on NEM Blockchain technology ([Proposal](https://forum.nem.io/t/coderschool-funding-collaboration-with-nem/13399)).
 * [Devslopes](https://devslopes.com/blockchain) - Become a Certified NEM Blockchain Developer.
 * [nemBOX](http://nembox.io) - The Best Place to Learn NEM Blockchain.
@@ -172,7 +172,7 @@ digital gift card values.
 * [GreeOx](http://greeox.com/) - Join [Telegram](https://t.me/joinchat/HWPwcQ12-z5nEl88Fw2VBA) - Exceedingly automatized, high yielding container where you get the opportunity to grow a variety of greens and herbs ([Proposal](https://forum.nem.io/t/nem-community-funding-proposal-worlds-first-decentralized-indoor-farm/16243)).
 * [HIT Foundation](https://hit.foundation/) - Join [Telegram](https://t.me/healthinformationtraceability) - Equitable & sustainable healthcare enabled by a decentralized marketplace for personal health data.
 * [Landstead](http://landstead.atraurablockchain.com) - Registry of land and property, allowing government and citizens to co-create an open blockchain system that can be trusted and consulted by interested parties.
-* [Meat tracking Japan](http://mijin.io/en/992.html) (Mijin) - Streamline the meat supply chain process that will enable end consumers to trace the history of the meat, from the hunting grounds.
+* [Meat tracking Japan](http://mijin.io/en/992.html) - Using Mijin. Streamline the meat supply chain process that will enable end consumers to trace the history of the meat, from the hunting grounds.
 * [MHub](https://mhub.my) - Join [Telegram](https://t.me/NEMHub) - Transforming the property sector through blockchain-powered property registration and verification ([Proposal](https://forum.nem.io/t/mhub-transforming-the-property-sector-through-blockchain-powered-property-registration-and-verification/13341)).
 * [MuleChain](https://www.mulechain.com/) - Join [Telegram](https://t.me/MuleChain) - Help millions participate in the global sharing economy by redefining global peer-to-peer logistics.
 * [NEMWill](https://www.facebook.com/NEMWill2018/) - Join [Telegram](https://t.me/nemwill) - Our mission is to ensure that your most valuable assets are given to the people you love.
