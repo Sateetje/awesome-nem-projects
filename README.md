@@ -100,7 +100,7 @@ digital gift card values.
 * [nemchange](http://nemchange.com) - Join [Telegram](https://t.me/joinchat/EldJ3RBgvHBIdCbnQjAjMQ) - Website where you can sell and buy NEM based tokens (called mosaics) and (in the future) other cryptocurrencies.
 * [NEMventory](https://github.com/RobertoSnap/nemventory) - Trade and inventory system backed on NEM blockchain.
 * [Token AI](https://tokenai.io/) - Join [Telegram](https://t.me/tokenai) - On demand crypto market and portfolio analysis, driven by Artificial Intelligence (AI).
-* [Zaif](https://zaif.jp/?lang=en3) (Mijin) - Exchange.
+* [Zaif](https://zaif.jp/?lang=en3) - Exchange.
 * [Zeus Exchange](http://zeus.exchange) - Join [Telegram](https://t.me/zeus_exchange) - Hybrid decentralized trading platform for the financial industry of tomorrow.
 
 ## Gaming
