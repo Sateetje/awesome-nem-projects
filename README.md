@@ -112,7 +112,7 @@ digital gift card values.
 * [Xarcade](https://www.xarcade.io) - Join [Telegram](https://t.me/xarcadeofficial) - NEM powered cost-effective video game distribution/exchange platform for both game publishers and gamers to use.
 
 ## Initial Coin Offering
-* [COMSA](http://www.comsa.io) - Join [Telegram](https://t.me/comsaio) - Cross-chain controller, router and a conduit for future ICOs that want to exist in the COMSA ecosystem.
+* [COMSA](https://www.comsa.io) - Join [Telegram](https://t.me/comsaio) - Cross-chain controller, router and a conduit for future ICOs that want to exist in the COMSA ecosystem.
 
 ## Internet of Things
 * [Ethyl](https://forum.nem.io/t/ethyl-the-future-of-the-internet-of-things/12106) - Join [Telegram](https://t.me/ethylC) - Ethyl decentralizes the internet of things using the NEM blockchain.
