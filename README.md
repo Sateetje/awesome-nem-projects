@@ -27,12 +27,13 @@
 * [Social](#social)
 * [Telegram Bots](#telegram-bots)
 * [Tools](#tools)
+* [Wallets](#wallets)
 * [Wrappers](#wrappers)
 
 ## Augmented Reality
-* [Fluffr](https://www.fluffr.io) - Create the use of Augmented Reality to engage with customers.
+* [Fluffr] - Create the use of Augmented Reality to engage with customers. (DISCONTINUED)
 * [Scanetchain](https://www.scanetchain.io/) - Join [Telegram](http://t.me/scanetchain) - Decentralized open platform where users can freely define and sell their contents and products for royalty and disclosure fee.
-* [Verses](http://www.verses.io/) - VERSES mission is to empower designers, developers, organizations and individuals to create, monetize and experience the most dynamic, interactive and meaningful immersive experiences imaginable.
+* [Verses](https://www.verses.io/) - VERSES mission is to empower designers, developers, organizations and individuals to create, monetize and experience the most dynamic, interactive and meaningful immersive experiences imaginable.
 
 ## Advertizing/Marketing
 * [Digitcoin.world](https://digitcoin.world) - Join [Telegram](https://t.me/digitcoinworld) - Most powerful Total Blockchain-Based Digital Marketing Solutions and specifically designs to deliver the digital marketing solutions for brands, merchants, retailing and service industries in different type of commerce (B2B, B2C, and C2C).
@@ -53,13 +54,13 @@
 * [DM Coin](http://dmc.darcmatter.com/) - Join [Telegram](https://t.me/DarcMatter) - DarcMatter is developing a blockchain based distributed ledger to remove opacity and inefficiencies from the global alternative investment industry.
 * [myCoinvest](https://www.mycoinvest.tech/) - Join [Telegram](https://t.me/joinchat/GPVrTA0Kj9JresZM3E93yA) - Ecosystem that offers an incentivized automatic savings platform powered by blockchain.
 * [SAVEN](http://saven.io/) - Enables investors of crypto-coins and tokens to reduce their volatility exposure and downside risk without the need of selling their assets for fiat.
-* [Sernez](http://sernez.io) - Join [Telegram](https://t.me/sernez) - Decentralised lending platform for educational loans.
+* [Sernez](https://www.linkedin.com/company/sernez/) - Join [Telegram](https://t.me/sernez) - Decentralised lending platform for educational loans.
 
 ## Charities/Donations
 * [GiveMatters](http://givematters.io/) - Join [Telegram](http://t.me/GiveMatters) - Provide a Community Hub for registered Charities, Not-for-Profits and NGO’s to publicise their initiatives and projects.
 * [Giving Ledger](https://givingledger.com/) - Blockchain-based transaction platform designed to build a sustainable
 ecosystem for philanthropic endeavors and positive social impact.
-* [Solution Token](https://www.solutiontoken.net/) - Join [Telegram](https://t.me/solutiontoken) - Give people the solutions of being able to start a business and create a secondary revenue stream while we aid humanitarian solutions.
+* [Solution Token] - Join [Telegram](https://t.me/solutiontoken) - Give people the solutions of being able to start a business and create a secondary revenue stream while we aid humanitarian solutions. (DISCONTINUED)
 
 ## Collaborations
 * [Pantos](https://pantos.io/) - Join [Telegram](https://t.me/pantosIO) - The first multi-blockchain token system.
@@ -80,7 +81,7 @@ ecosystem for philanthropic endeavors and positive social impact.
 * [Tech Bureau](https://techbureau.com/) - Fintech and cryptocurrency group company in Japan, the U.S. and Europe. Develops software and services for blockchain technology.
 
 ## Education
-* [Cache](https://getcache.io/platforms) - Series of platforms that will help make blockchain more usable & accessible to developers and businesses throughout the world.
+* [Cache] - Series of platforms that will help make blockchain more usable & accessible to developers and businesses throughout the world. (DISCONTINUED)
 * [CoderSchool](http://www.coderschool.vn/) - Proposal for Coderschool and the NEM Foundation to work together in 2018 to developers on NEM Blockchain technology ([Proposal](https://forum.nem.io/t/coderschool-funding-collaboration-with-nem/13399)).
 * [Devslopes](https://devslopes.com/blockchain) - Become a Certified NEM Blockchain Developer.
 * [nemBOX](http://nembox.io) - The Best Place to Learn NEM Blockchain.
@@ -94,7 +95,7 @@ ecosystem for philanthropic endeavors and positive social impact.
 * [brifs.co](https://www.brifs.co/) - Join [Telegram](https://t.me/brifs) - Trustless and decentralised peer-to-peer exchange of
 digital gift card values.
 * [Dimcoin](http://www.dimcoin.io) - Join [Telegram](https://t.me/dimcoinICO) - Trade shares on blockchain for the first time with DIMCOIN and the DIM Ecosystem.
-* [Fundplatform](https://fundplatform.io/en) - Join [Telegram](https://t.me/FundPlatform) - Fund Platform is a platform for building trade and investment crypto funds at the decentralized, convenient and secure service.
+* [Fundplatform](https://fundplatform.io/) - Join [Telegram](https://t.me/FundPlatform) - Fund Platform is a platform for building trade and investment crypto funds at the decentralized, convenient and secure service.
 * [NEM Exchange](http://www.the-blockchain.com/2017/07/27/nem-io-foundation-create-xem-exchange/) - Join [Telegram](https://t.me/nemred) - NEM.io Foundation XEM Exchange.
 * [nemchange](http://nemchange.com) - Join [Telegram](https://t.me/joinchat/EldJ3RBgvHBIdCbnQjAjMQ) - Website where you can sell and buy NEM based tokens (called mosaics) and (in the future) other cryptocurrencies.
 * [NEMventory](https://github.com/RobertoSnap/nemventory) - Trade and inventory system backed on NEM blockchain.
@@ -184,13 +185,13 @@ digital gift card values.
 * [safekee](http://www.safekee.io/) - World's first secure decentralized cryptokeys Cold–Storage service.
 
 ## Social
-* [Breeze](https://breeze.chat) - Join [Telegram](https://t.me/joinchat/FgVGrEPPX1Ik_xyN6Q8n9g) - Full featured social app with integrated payment technology
+* [Breeze](https://breeze.chat) - Join [Telegram](https://t.me/joinchat/FgVGrEPPX1Ik_xyN6Q8n9g) - Full featured social app with integrated payment technology.
 * [PeerStream](https://www.peerstream.com/) - Powers multimedia social connectivity (messaging and streaming).
 * [Xems](http://xems.io/) - Join [Telegram](https://t.me/joinchat/Hvn1Fw4Le4iawfoCTMJEZA) - Anonymous social networking service that uses blockchain NEM for short messaging.
 
 ## Telegram Bots
-* [NEMHarvestMonitorBot](https://t.me/NEMHarvestMonitorBot) - Telegram NEM Harvest Monitor Bot
-* [NemNotificationsBot](https://t.me/NemNotificationsBot) - Telegram NEM Notifications Bot
+* [NEMHarvestMonitorBot](https://t.me/NEMHarvestMonitorBot) - Telegram NEM Harvest Monitor Bot.
+* [NemNotificationsBot](https://t.me/NemNotificationsBot) - Telegram NEM Notifications Bot.
 
 ## Tools
 * [Blockstart token sale api](https://github.com/blockstart/nem-coinbase-token-sale-api) - This repo provides all of the code needed to operate a token sale on the NEM blockchain (api).
@@ -203,7 +204,7 @@ digital gift card values.
 * [XEMSign](https://github.com/kodty/MultisigTransactionSigner) - Simple bot for signing XEM multisignature transactions with optional signing rules.
 * [Nagit](https://github.com/ccastromar/nagit) - NEM API Graphical Interactive Tool for testing REST APIs calling NIS Nodes.
 
-## Wallet
+## Wallets
 * [CacheWallet](https://github.com/cache-official/cache-wallet) - The official cross platform wallet for the Cache cryptocurrency.
 * [NanoWallet](https://github.com/NemProject/NanoWallet) - Official NEM Wallet.
 * [RaccoonWallet](https://github.com/SasakiYuki/RaccoonWallet) - NEM Mobile Wallet app developed in Japan aiming for the easiest ease of use in the world.
@@ -213,16 +214,15 @@ digital gift card values.
 * [Go](https://github.com/nem-toolchain/nem-toolchain)
 * [Java](https://github.com/NEMPH/nem-apps-lib)
 * [Java](https://github.com/rosklyar/nem-library)
-* [Javascript](https://github.com/QuantumMechanics/NEM-sdk)
-* [Javascript](https://www.npmjs.com/package/nem-api)
-* [NodeJS](https://github.com/NemProject/nodejs2nem)
+* [JavaScript](https://github.com/QuantumMechanics/NEM-sdk)
+* [JavaScript](https://www.npmjs.com/package/nem-api)
+* [Node.js](https://github.com/NemProject/nodejs2nem)
 * [PHP](https://github.com/namuyan/NEM-Api-Library)
 * [PHP](https://github.com/tomotomo9696/NEMTools_PHP)
 * [PHP](https://github.com/evias/php-nem-laravel)
 * [Python](https://github.com/namuyan/nem-python)
 * [Python](https://github.com/semolex/nis-python-client)
 * [Ruby](https://github.com/44uk/nis-ruby)
-* [Typescript/Javascript](http://nemlibrary.com/)
 
 ## Contribute
 Contributions welcome! Read the [contribution guidelines](https://github.com/Sateetje/awesome-nem-projects/blob/master/contributing.md) first.
